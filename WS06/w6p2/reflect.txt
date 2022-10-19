@@ -1,0 +1,13 @@
+/*
+ ============================================================================
+ Name        : reflect.txt
+ Author      : James Giroux - jgiroux1@myseneca.ca
+ Student #   : 129198164
+ Section     : NEE
+ Date        : October 11, 2022 - Workshop 5 - part 2
+ ============================================================================
+ */
+
+This week we learned about working with classes that have resources like dynamic memory. When a class has resources, we need to follow the three rules. We must have a copy constructor, a copy assignment operator, and a destructor. These allow us to work with dynamic memory and make it easier to keep track of memory leaks. We also learned about resizing memory using the += operator. I liked that we got more practice with operator overloads and working with files, which was a good learning experience and reinforced those topics.
+The only issue I had this week was a memory leak in part one that I couldn't figure out. In the end, I had the answer the whole time, but when I ran the program, I was missing the add.txt file. So when my output wasn't as expected, I assumed my fix was wrong.
+This class moves incredibly fast, and I am glad I chose to retake it. I needed a refresher, but I am finding that I am learning more this time around.

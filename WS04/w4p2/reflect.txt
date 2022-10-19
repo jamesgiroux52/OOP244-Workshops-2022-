@@ -1,0 +1,14 @@
+/*
+ ============================================================================
+ Name        : Reflection - reflect.txt
+ Author      : James Giroux - jgiroux1@myseneca.ca
+ Student #   : 129198164
+ Section     : NEE
+ Date        : October 4, 2022 - Workshop 4 - part 2
+ ============================================================================
+ */
+
+The main topics we learned for this week's lab were constructors, destructors, overloading functions, and the current object.
+Classes have the feature of constructors and destructors built into them. The compiler will automatically create them, but it makes more sense to implement them ourselves. That way, we control what they do, for example, allocating and deallocating dynamic memory. 
+Overloading functions is a great way to design our classes because it gives options for how we manipulate our data. For example, having a few different constructors allows the "main" function to create objects with all of the members initialized or none. You might also want to read or display data differently, so overloading those functions makes a lot of sense.
+The current object gave me the most trouble this week. At first, I couldn't understand how "this" worked. As I studied the materials and wrote the programs, it made more sense. After completing the DIY portion and understanding the tester script, I am confident in using "this" now.

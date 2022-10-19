@@ -1,0 +1,9156 @@
+clear
+#1547242351
+exit
+#1547265949
+ls
+#1547265962
+cd public_html
+#1547266031
+exit
+#1547312500
+ls
+#1547312510
+cd public_html
+#1547312512
+ls
+#1547312534
+exit
+#1547409911
+ls
+#1547409948
+mkdir sample_dir/cambridge
+#1547409957
+mkdir sample_dir
+#1547409959
+ls
+#1547409962
+ls -l
+#1547409971
+cd sample_dir
+#1547409986
+mkdir cambridge
+#1547409996
+mkdir faculty
+#1547410008
+mkdir markham
+#1547410017
+mkdir oxford
+#1547410026
+mkdir stenton
+#1547410030
+ls -la
+#1547410044
+cd cambride
+#1547410051
+cd cambridge
+#1547410066
+mkdir library security
+#1547410068
+ls
+#1547410074
+cd security
+#1547410082
+touch annex parking
+#1547410084
+la
+#1547410085
+ls
+#1547410089
+cd ..
+#1547410092
+ls -la
+#1547410097
+cd ..
+#1547410101
+ls -la
+#1547410114
+touch history.online
+#1547410120
+cd markham
+#1547410137
+ls
+#1547410147
+touch annex
+#1547410148
+ls
+#1547410150
+cd
+#1547410154
+ls -la
+#1547410162
+cd sample_dir/
+#1547410164
+ls -la
+#1547410176
+cd oxford
+#1547410178
+ls -la
+#1547410188
+touch outline.doc
+#1547410191
+ls -la
+#1547410203
+mkdir programming
+#1547410205
+cd programming/
+#1547410216
+touch report.pdf
+#1547410218
+cd
+#1547410225
+cd sample_dir/
+#1547410231
+ls -la
+#1547410237
+cd stenton
+#1547410239
+ls -la
+#1547410250
+mkdir lib_arts
+#1547410267
+touch lib_arts/english.txt
+#1547410277
+touch lib_arts/match.doc
+#1547410281
+ls -la
+#1547410292
+cd lib_arts
+#1547410294
+ls -la
+#1547410345
+~uli101/2019a/showtree ~sample_dir
+#1547410365
+ls -la
+#1547410368
+cd
+#1547410372
+~uli101/2019a/showtree ~sample_dir
+#1547410383
+~uli101/2019a/showtree ~/sample_dir
+#1547410761
+man rmdir
+#1547412082
+~uli101/2019a/showtree ~/sample_dir
+#1547412090
+exit
+#1547403536
+ls
+#1547403616
+~uli101/a1
+#1547409710
+ls
+#1547409716
+ls -a
+#1547409720
+ls -la
+#1547409786
+~uli101/a1
+#1547412040
+ls -la
+#1547412093
+exit
+#1547417414
+ls -la
+#1547417445
+exit
+#1547490402
+ls -la
+#1547490410
+cd sample_dir/
+#1547490413
+ls -la
+#1547490418
+tree
+#1547492051
+man tree
+#1547492367
+tree /sample_dir
+#1547492370
+ls
+#1547492379
+tree sample_dir
+#1547492839
+cd /
+#1547492844
+ls -la
+#1547492894
+cd ~
+#1547492899
+ls -la
+#1547493136
+clear
+#1547493148
+pwd
+#1547493240
+ls -la
+#1547493287
+ls
+#1547493296
+ls a1
+#1547493320
+cat cars
+#1547493331
+cat a1/cars
+#1547493336
+clear
+#1547493395
+tree
+#1547493606
+mkdir uli101j
+#1547493610
+tree
+#1547493640
+cd uli101j/
+#1547493641
+ls
+#1547493709
+rm uli101j
+#1547493727
+cd ..
+#1547493729
+rm uli101j
+#1547493739
+rmdir uli101j
+#1547493741
+ls
+#1547493771
+tree
+#1547493790
+cat myHistory
+#1547493802
+clear
+#1547493807
+ls -la
+#1547493811
+ls-la
+#1547493816
+ls -la
+#1547493818
+clear
+#1547493820
+ls
+#1547493882
+ls -l
+#1547493910
+mkdir uli101j
+#1547493917
+cd uli101j
+#1547493919
+ls
+#1547493920
+dir
+#1547493925
+man dir
+#1547493944
+dir -a
+#1547493962
+mkdir week2
+#1547493966
+ls -la
+#1547493969
+dir
+#1547493972
+ls
+#1547493976
+clear
+#1547493988
+cd week2
+#1547493995
+pwd
+#1547494067
+tree
+#1547494073
+cd ~
+#1547494075
+tree
+#1547494331
+cd a1
+#1547494338
+cat passwd
+#1547494350
+clear
+#1547494352
+cd ..
+#1547494355
+ls -la
+#1547494721
+tree
+#1547494763
+rm -i uli101j
+#1547494771
+rm -r uli101j
+#1547494774
+tree
+#1547494987
+mkdir -p uli101j/week2
+#1547494989
+ls
+#1547495159
+touch uli101j/week2/fl
+#1547495163
+tree
+#1547495256
+rm f1
+#1547495259
+ls -;a
+#1547495265
+ls -la
+#1547495273
+tree
+#1547495287
+rm uli101j/week2/f1
+#1547495303
+rm -r uli101j/week2/f1
+#1547495323
+cd uli101j
+#1547495326
+cd week2
+#1547495330
+rm f1
+#1547495335
+rm fl
+#1547495337
+ls
+#1547495344
+ls -la
+#1547495383
+ls -l -a
+#1547495393
+ls -la
+#1547495396
+clear
+#1547495398
+pwd
+#1547495445
+cd ~
+#1547495446
+pwd
+#1547495460
+cd uli101/week2
+#1547495463
+tree
+#1547495470
+cd uli101j/week2
+#1547495472
+pwd
+#1547495484
+mkdir comics
+#1547495499
+mkdir comics/dc
+#1547495502
+mkdir comics/marvel
+#1547495508
+cd comics
+#1547495512
+cd dc
+#1547495523
+mkdir batman
+#1547495538
+mkdir flash
+#1547495540
+cd batman
+#1547495548
+touch robin
+#1547495550
+cd ..
+#1547495556
+cd marvel
+#1547495566
+mkdir spiderman
+#1547495599
+touch spiderman/mj
+#1547495603
+cd ..
+#1547495607
+cd ~
+#1547495614
+tree 
+#1547495625
+tree uli101j
+#1547495671
+exit
+#1547495692
+tree
+#1547495719
+tree uli101j
+#1547495722
+clear
+#1547495727
+tree uli101j
+#1547496295
+quit
+#1547496297
+exit
+#1547496393
+tree
+#1547496430
+cd uli101j/week2/comics/dc/batman
+#1547496433
+pwd
+#1547496445
+mv robin nightwing
+#1547496448
+tree
+#1547496510
+tree ../../..
+#1547496542
+cd ../../..
+#1547496546
+ls
+#1547496552
+tree
+#1547496686
+mv comics/marvel/spiderman/mj comics/marvel/spiderman/gs
+#1547496689
+tree
+#1547496773
+quit
+#1547496776
+exit
+#1547655802
+ls -la
+#1547655817
+mkdir ipc101
+#1547655818
+ls
+#1547655825
+cd ipc101
+#1547656202
+ls -la
+#1547656230
+mkdir w1
+#1547656246
+mv w1* w1
+#1547656259
+mv w1_* w1
+#1547656266
+ls -la
+#1547656272
+cd w1
+#1547656274
+ls
+#1547656278
+ls -la
+#1547656309
+gcc w1_lab.c -o w1
+#1547656311
+ls -la
+#1547656319
+w1
+#1547656384
+gcc w1_lab.c -o w1_lab
+#1547656387
+w1_lab
+#1547656391
+ls -la
+#1547656396
+rm w1
+#1547656397
+ls
+#1547656406
+gcc w1_lab.c -o w1_home
+#1547656409
+w1_home
+#1547656415
+ls -la
+#1547656427
+cat w1_home.c
+#1547656445
+gcc w1_home.c -o w1_home
+#1547656448
+w1_home
+#1547656454
+w1_lab
+#1547656458
+ls -la
+#1547656650
+cd ..
+#1547656652
+ls
+#1547656657
+cd sample_dir
+#1547656660
+tree
+#1547656757
+cd ipc101
+#1547656760
+ls
+#1547656768
+cd ../ipc101
+#1547656770
+ls
+#1547656773
+cd w1
+#1547656777
+ls -la
+#1547656789
+w1_home
+#1547663565
+ls -la
+#1547663577
+cd uli101j
+#1547663579
+ls -la
+#1547663583
+cd week2
+#1547663585
+ls
+#1547663588
+cd ../..
+#1547663591
+cd /
+#1547663595
+cd ~
+#1547663597
+ls
+#1547663599
+ls -la
+#1547663953
+cd ipc101
+#1547663954
+ls
+#1547663956
+cd w1
+#1547663963
+gcc w1_home
+#1547663966
+ls
+#1547663971
+gcc w1_home.c
+#1547663976
+a.out
+#1547665337
+tree
+#1547665344
+rm a.out
+#1547665351
+cat w1_home.c
+#1547665358
+cat w1_lab.c
+#1547665876
+exit
+#1547666572
+dir
+#1547666579
+dir -la
+#1547666735
+exit
+#1547667803
+find
+#1547667815
+find *.*
+#1547667873
+man find
+#1547667912
+find -h
+#1547667916
+find --help
+#1547667936
+exit
+#1547689331
+ls -la
+#1547689342
+mv ipc101 ipc144
+#1547689345
+ls -la
+#1547689368
+mv ipc144 ipc144j
+#1547689371
+ls -la
+#1547689377
+tree
+#1547689405
+tree uli101j
+#1547689442
+cd ipc144j
+#1547689446
+tree
+#1547689456
+cd w1
+#1547689462
+w1_lab
+#1547689468
+w1_home
+#1547689484
+bash --help
+#1547689564
+brew
+#1547735543
+ls -la
+#1547735553
+cd ipc144j
+#1547735555
+ls -la
+#1547735560
+cd w1
+#1547735561
+ls
+#1547735566
+w1_lab
+#1547735571
+w1_home
+#1547735584
+cat w1_home.c
+#1547735638
+cd ../../uli101j
+#1547735640
+ls
+#1547735644
+cd week2
+#1547735646
+ls
+#1547735648
+tree
+#1547735652
+cd ../..
+#1547735654
+ls
+#1547735660
+tree sample_dir
+#1547735699
+exit
+#1547776411
+ls
+#1547776416
+cd ipc144j
+#1547776420
+ls -la
+#1547776423
+cd w1
+#1547776425
+ls -la
+#1547776433
+rm *.*
+#1547776436
+ls -la
+#1547776445
+rm *
+#1547776446
+ls
+#1547776449
+ls -la
+#1547776810
+gcc w1_lab.c -o w1
+#1547776813
+w1
+#1547776876
+gcc w1_home.c -o w1_home
+#1547776879
+ls -la
+#1547776883
+w1_home
+#1547776892
+cat reflect.txt
+#1547777056
+~md-nour.hossainsubmit 144sjj_w1_lab
+#1547777072
+~md-nour.hossain/submit 144sjj_w1_lab
+#1547777093
+~md-nour.hossain/submit 144SJJ_w1_lab
+#1547777146
+ls -la
+#1547777174
+ws
+#1547777209
+rm ws
+#1547777211
+ls -la
+#1547777227
+exit
+#1547830058
+~md-nour.hossain/submit 144SJJ_w1_lab
+#1547830073
+cd ipc144j/w1
+#1547830075
+ls -la
+#1547830084
+~md-nour.hossain/submit 144SJJ_w1_lab
+#1547830139
+cat error.yxy
+#1547830144
+cat error.txt
+#1547830176
+~md-nour.hossain/submit 144SJJ_w1_home
+#1547830197
+ls -la
+#1547830201
+ws
+#1547830273
+cat reflect.txt
+#1547830310
+ls -la
+#1547843925
+ls
+#1547843930
+cd uli101j
+#1547843932
+ls -la
+#1547843936
+cd week2
+#1547843938
+tree
+#1547844447
+tree -C
+#1547844696
+mkdir -p superheroes/dc/good superheroes/dc/bad superheroes/marvel/bad superheroes/marvel/good
+#1547844698
+tree
+#1547844723
+tree -C
+#1547844804
+touch superheroes/dc/good/batman superheroes/dc/bad/joker superheroes/marvel/good/spiderman superheroes/marvel/bad/doc_oc
+#1547844808
+tree -C
+#1547846628
+cp -r *.* backups
+#1547846648
+cp -r superheroes backups
+#1547846650
+tree
+#1547847323
+cp /home/john.samuel/useful_files/people.csv .
+#1547847325
+ls
+#1547847332
+cat people.csv
+#1547847363
+less people.csv
+#1547847533
+exit
+#1547847569
+tree
+#1547847674
+cd ~
+#1547847813
+find . -name joker
+#1547847952
+tree
+#1547847967
+cd uli101j/week2
+#1547847970
+ls -la
+#1547848019
+less people.csv
+#1547848065
+file people.csv
+#1547848250
+vi people.csv
+#1547848329
+vi f1
+#1547848551
+cat f1
+#1547848558
+vi f1
+#1547848574
+cat f1
+#1547848594
+vi f1
+#1547849052
+exit
+#1547997088
+ls -l
+#1547997100
+cd uli101j
+#1547997102
+ls -l
+#1547997110
+cd week2review/
+#1547997111
+ls
+#1547997143
+mkdir -p week2/blue/green/red
+#1547997153
+mkdir -p week2/blue/black
+#1547997171
+mkdir -p week2/purple/white
+#1547997186
+mkdir -p week2/yellow/red
+#1547997207
+touch week2/blue/red/f1
+#1547997260
+tree
+#1547997488
+touch week2/blue/green/red/f1
+#1547997502
+touch week2/purple/f3
+#1547997520
+touch week2/yellow/red/f2
+#1547997524
+tree -C
+#1547997600
+cd week2
+#1547997602
+tree -C
+#1547997662
+mkdir -p orange/green/pink
+#1547997666
+tree -C
+#1547997714
+cp blue/green/red/f1 purple/white
+#1547997717
+tree -C
+#1547997745
+mv yellow/red/f2 yellow/red/file2
+#1547997747
+tree -C
+#1547997786
+cp -r yellow blue/black
+#1547997789
+tree -C
+#1547997837
+cd blue/green
+#1547997840
+tree -C
+#1547997851
+tree -C ../..
+#1547997897
+cp red/f1 ../../purple/white/file1
+#1547997923
+tree -C ../..
+#1547998024
+mv mv ../../purple/f3 ./file3
+#1547998040
+mv ../../purple/f3 ./file3
+#1547998049
+mv mv ../../purple/f3 ./file3
+#1547998059
+tree -C ../..
+#1547998129
+cp red/file2 ../..
+#1547998154
+cp red/f1 ../..
+#1547998159
+tree -C ../..
+#1547998172
+cd ../..
+#1547998175
+tree -C ../..
+#1547998183
+ls -l
+#1547998193
+tree -C
+#1547998200
+cd ..
+#1547998203
+tree -C
+#1547998207
+ls -la
+#1547998219
+rm -r week2
+#1547998221
+ls -la
+#1547998226
+cd week2review/
+#1547998228
+ls
+#1547998313
+exit
+#1547996980
+cd uli101j
+#1547996982
+ls
+#1547996988
+cd week2review
+#1547996990
+ls
+#1547996999
+vi week2review/
+#1547997040
+cd week2review/
+#1547997042
+ls
+#1547997057
+vi w2reviewanswers 
+#1547998325
+exit
+#1548081181
+ls -la
+#1548081187
+cd uli101j
+#1548081188
+ls
+#1548081194
+cd week2review/
+#1548081197
+ls -la
+#1548081200
+cd week2review/
+#1548081201
+ls
+#1548081217
+vi w2reviewanswers
+#1548081283
+cd uli101j
+#1548081294
+ls
+#1548081303
+cd week@review
+#1548081313
+cd week2review
+#1548081316
+ls -la
+#1548081334
+cd week2review/
+#1548081342
+ls
+#1548081355
+vi w2review
+#1548096948
+cd uli101j
+#1548096952
+ls -la
+#1548096956
+cd week 2
+#1548096958
+cd week2
+#1548096960
+ls
+#1548096968
+cd ../week2review
+#1548096969
+ls
+#1548096979
+la-la
+#1548096982
+ls -la
+#1548097007
+cp week2review .
+#1548097015
+cp -r week2review .
+#1548097026
+cp -r week2review/ .
+#1548097038
+cd .
+#1548097046
+cd week2review/
+#1548097048
+ls -la
+#1548097058
+vi w2review
+#1548097770
+ls -la
+#1548097781
+cd uli101j
+#1548097784
+cd week2
+#1548097786
+ls -la
+#1548097833
+vi f1
+#1548098036
+ls -la
+#1548098040
+vi f2
+#1548098098
+ls -la
+#1548098101
+tree
+#1548098106
+cat f2
+#1548098208
+vi f2
+#1548098958
+clear
+#1548099301
+kdfalskj
+#1548099312
+clear
+#1548099388
+cd
+#1548099394
+ls 
+#1548099403
+ls -a
+#1548099408
+ls -la
+#1548099537
+ls -l
+#1548099550
+cat myHistory
+#1548099555
+clear
+#1548099557
+ls -l
+#1548099601
+ls -la
+#1548099610
+cd .ssh
+#1548099613
+ls -la
+#1548099616
+cd ..
+#1548099618
+clear
+#1548099621
+ls -la
+#1548099680
+ls -ld
+#1548099737
+tree -C
+#1548099846
+..
+#1548099849
+cd ~
+#1548100355
+exit
+s
+exit
+#1548195427
+ls -la
+#1548195435
+-uli101/a1
+#1548195448
+~uli101/a1
+#1548199790
+exit
+#1548268784
+ls -la
+#1548269306
+~uli101/a1
+#1548269407
+ls -la
+#1548269413
+tree -C
+#1548269429
+cd ipc144j
+#1548269431
+tree -C
+#1548269439
+mkdir workshops
+#1548269441
+ls
+#1548269466
+mv wi ./workshops
+#1548269474
+mv w1 ./workshops
+#1548269475
+ls
+#1548269479
+cd workshops/
+#1548269480
+ls
+#1548269491
+mkdir w2
+#1548269497
+tree -C
+#1548269501
+cd week 2
+#1548269504
+cd week2
+#1548269507
+cd w2
+#1548269509
+ls
+#1548269515
+cd ~
+#1548269519
+tree -C
+#1548270218
+find --help
+#1548270272
+find - size --help
+#1548270293
+find --help
+#1548270343
+c
+#1548270345
+cl
+#1548270347
+clear
+#1548270352
+find --help
+#1548270363
+type --hels
+#1548270365
+type --help
+#1548270372
+type -help
+#1548270380
+type --help
+#1548270384
+type -help
+#1548270388
+man find
+#1548270422
+type -d
+#1548270431
+clear
+#1548270433
+type
+#1548270438
+type d
+#1548270443
+type -d
+#1548270446
+type -D
+#1548270459
+type
+#1548270486
+find -type d
+#1548270497
+find -type f
+#1548270503
+clear
+#1548271410
+ls -la
+#1548271424
+cat .uli.log.2019a
+#1548271434
+cat .uli101.log.2019a
+#1548271456
+~uli101/a1
+#1548289960
+ls -laa
+#1548289981
+cd ipc144j
+#1548289983
+ls
+#1548289988
+cd workshops
+#1548289990
+ls
+#1548289995
+mkdir w3
+#1548289998
+ls
+#1548290008
+cd ../w2
+#1548290011
+ls
+#1548290020
+cd w2
+#1548290021
+ls
+#1548290094
+cat cashRegister.c 
+#1548290136
+gcc cashRegister.c -o ws
+#1548290139
+ls
+#1548290141
+ws
+#1548290198
+ls
+#1548290205
+rm ws
+#1548290207
+ls-l
+#1548290210
+ls -l
+#1548290237
+cat cashRegister_lab.c
+#1548290260
+gcc cashRegister_lab -o ws_lab
+#1548290269
+gcc cashRegister_lab.c -o ws_lab
+#1548290281
+ws_lab
+#1548290297
+ls
+#1548290316
+gcc cashRegister_home.c -o ws_home
+#1548290320
+ws_home 
+#1548290346
+ls -la
+#1548290375
+cat reflect.txt 
+#1548290399
+vi reflect.txt 
+#1548434456
+cd ipc144j/w2
+#1548434458
+ls -la
+#1548434666
+vi cashRegister_home.c
+#1548434693
+vi cashRegister_lab.c
+#1548436030
+vi cashRegister_home.c
+#1548436438
+ls -la
+#1548436450
+rm ws_*
+#1548436452
+ls -la
+#1548436468
+vi cashRegister_lab.c
+#1548436641
+gcc cashRegister_lab.c -o test
+#1548436645
+test
+#1548436648
+ls
+#1548436662
+./test
+#1548436679
+ls -la
+#1548436682
+rm test
+#1548436684
+ls
+#1548436869
+gcc -Wall cashRegister_lab.c -o ws
+#1548436872
+ls -la
+#1548436874
+ws
+#1548436951
+~md-nour.hossain/submit 144SJJ_w2_lab
+#1548436960
+ls -la
+#1548436987
+mv cashRegister_lab.c cashRegister.c
+#1548436988
+ls -la
+#1548437000
+~md-nour.hossain/submit 144SJJ_w2_lab
+#1548437055
+ls -la
+#1548437118
+cat 144_w2_lab_output.txt 
+#1548437129
+cat output.txt 
+#1548437143
+ls -la
+#1548437222
+mkdir home
+#1548437225
+mkdir lab
+#1548437227
+ls -la
+#1548437258
+mv cashRegister.c home
+#1548437260
+ls
+#1548437264
+ls -la
+#1548437303
+mv lab/cashRegister.c .
+#1548437310
+cd lab
+#1548437312
+ls
+#1548437333
+s -la
+#1548437337
+ls -la
+#1548437341
+cd ..
+#1548437343
+rm lab
+#1548437346
+rm -r lab
+#1548437350
+ls -la
+#1548437378
+mv cashRegister_home.c home/cashRegister.c
+#1548437382
+tree -C
+#1548437413
+vi cashRegister.c 
+#1548437503
+ls -la
+#1548437509
+cd home
+#1548437511
+ls -la
+#1548437535
+gcc cashRegister.c -o ws
+#1548437537
+ls -la
+#1548437580
+cd ..
+#1548437581
+ls
+#1548437586
+vi reflect.txt 
+#1548437607
+mv reflect.txt hme/reflect.txt
+#1548437616
+mv reflect.txt home/reflect.txt
+#1548437619
+cd home
+#1548437620
+ls -la
+#1548437642
+~md-nour.hossain/submit 144SJJ_w2_home
+#1548437664
+ls -la
+#1548438530
+cd ..
+#1548438535
+tree -C
+#1548438598
+cd home
+#1548438603
+vi cashRegister.c 
+#1548447903
+ls -la
+#1548447907
+cd uli101j
+#1548447909
+ls
+#1548447910
+ls -ls
+#1548447913
+ls -la
+#1548448045
+tree -p
+#1548448056
+man tree -p
+#1548448130
+clear
+#1548451584
+ls -la
+#1548451593
+mkdir week3
+#1548451596
+cd week3
+#1548451648
+cp -r ~john.samuel/useful_files/wildcards .
+#1548451651
+ls -la
+#1548451659
+tree -c
+#1548451664
+tree -C
+#1548451896
+cp -r ~john.samuel/useful_files/wildcards ls *.f
+#1548451907
+ls *.f
+#1548451932
+cd wildcards/
+#1548451933
+ls *.f
+#1548451946
+ls *.txt
+#1548453120
+ls
+#1548453122
+tree
+#1548453127
+cd ..
+#1548453129
+tree
+#1548453133
+cd ..
+#1548453136
+cd week3
+#1548453258
+cp ~john.samuel/useful_files/review_excercises/week3review .
+#1548455024
+ls -la
+#1548469400
+exit
+#1548469491
+ls -la
+#1548469501
+cd uli101j/week3
+#1548469503
+ls -la
+#1548469510
+ls
+#1548469578
+cp -r ~john.samuel//useful_files/review_excercises/week3review .
+#1548469613
+cp -r ~john.samuel//useful_files/review_excercises/week3review ./
+#1548469725
+cp -r ~john.samuel//useful_files/review_excercises/week3review .
+#1548469732
+cp -r ~john.samuel//useful_files/review_excercises/week3review/ .
+#1548469744
+cp -r ~john.samuel/useful_files/review_excercises/week3review/ .
+#1548469748
+cp -r ~john.samuel/useful_files/review_excercises/week3review .
+#1548469779
+ls -la
+#1548469784
+cd /
+#1548469793
+cd users
+#1548469795
+ls
+#1548469800
+cd usr
+#1548469805
+cd john.samuel
+#1548469810
+ls 
+#1548469818
+ls -la
+#1548469826
+cd ..
+#1548469829
+ls -la
+#1548469839
+cd ~
+#1548469841
+ls -la
+#1548469857
+cp -r ~john.samuel/useful_files/review_excercises/week3review .
+#1548475367
+ls -la
+#1548475402
+cp -r ~john.samuel/useful_files/review_exercises/week3review  .
+#1548475417
+ls -la
+#1548475426
+tree -C
+#1548475436
+ls
+#1548475449
+mv week3review uli101j/week3
+#1548475452
+ls
+#1548475454
+tree -C
+#1548475463
+cd uli101j/week3
+#1548475464
+ls
+#1548475469
+cd week3review/
+#1548475470
+ls
+#1548475477
+vi w3review
+#1548475672
+ls
+#1548475674
+ls -l
+#1548475681
+exit
+#1548560522
+cd uli101j/week3
+#1548560524
+ls -la
+#1548560528
+cd week3review/
+#1548560530
+ls -la
+#1548560558
+vi w3review
+#1548561752
+cp w3review my_answers
+#1548561754
+ls -la
+#1548561763
+cat w3reviewanswers 
+#1548561786
+exit
+#1548560866
+cd uli101j/week3/week3review
+#1548560879
+ls -la
+#1548560892
+vi w3reviewanswers 
+#1548561798
+clear
+#1548561806
+cd 
+#1548561811
+tree -C
+#1548561863
+ls *
+#1548561880
+rm file*
+#1548561894
+ls -la *
+#1548561929
+ls *i*
+#1548561945
+ls *s*
+#1548561957
+ls -la
+#1548561978
+exit
+#1548691315
+tree -C
+#1548691322
+cd uli101j
+#1548691325
+tree -C
+#1548691336
+cd week3/week3review
+#1548691338
+ls -la
+#1548691347
+vi my_answers 
+#1548692472
+vi w3reviewanswers 
+#1548702987
+exit
+#1548700303
+clear
+#1548700307
+ls -la
+#1548700476
+cd uli101j
+#1548700479
+cd week3
+#1548700482
+ls -la
+#1548700488
+cd week3review/
+#1548700490
+ls -la
+#1548700496
+vi my_answers 
+#1548702230
+clear
+#1548873261
+tree -c
+#1548873263
+tree -C
+#1548873315
+~uli101/a1
+#1548873718
+ls -la
+#1548874120
+ls ~..
+#1548874129
+ls ~/home
+#1548874142
+ls ~/../home
+#1548874145
+ls -la
+#1548874160
+ls ~/public_html/
+#1548874285
+ls -la
+#1548874290
+tree -C
+#1548874918
+ls -la
+#1548874923
+cd .ssh
+#1548874925
+ls -la
+#1548874929
+cat authorized_keys 
+#1548874935
+cd ..
+#1548874937
+ls
+#1548874982
+cd cd public_html/
+#1548874986
+cd public_html/
+#1548874988
+ls
+#1548874995
+cat index.html
+#1548876850
+man mv
+#1548877589
+ls -la
+#1548877591
+cd..
+#1548877596
+cd uli101j/
+#1548877598
+ls
+#1548877602
+cd week3
+#1548877603
+ls
+#1548877607
+cd week3review/
+#1548877608
+ls
+#1548877612
+cd ..
+#1548877614
+ cd ..
+#1548877617
+ls -la
+#1548877620
+cd ..
+#1548877624
+ls -la
+#1548877632
+tree -C
+#1548877643
+cd week3/wildcards
+#1548877655
+cd uli101j/week3/wildcards
+#1548877658
+ls -la
+#1548877664
+ls
+#1548878942
+ls -la
+#1548878951
+ls *t
+#1548878958
+ls ????
+#1548878987
+ls f[!1-4]
+#1548878991
+ls f[!1-4]*
+#1548879023
+ls f[!1-2]*
+#1548879136
+tree -C
+#1548879162
+tree .. -C
+#1548879170
+tree ../.. -C
+#1548879207
+tree ../../.. -C
+#1548879216
+tree ../.. -C
+#1548879221
+tree ../ -C
+#1548967575
+ls -la
+#1548967584
+~uli101/a1
+#1548967609
+tree -C
+#1548967659
+cat public_html/index.html
+#1548967764
+exit
+#1549027496
+cd ipc144j/
+#1549027497
+ls
+#1549027505
+mkdir w4
+#1549027516
+mkdir w5 w6 w7
+#1549027518
+ls
+#1549027520
+cd w3
+#1549027521
+ls
+#1549027626
+tree -C
+#1549027635
+cd lab
+#1549027748
+gcc -Wall temps.c -o ws
+#1549027773
+vi temps.c 
+#1549027869
+gcc -Wall temps.c -o ws
+#1549027893
+./ws
+#1549027970
+vi temps.c 
+#1549028018
+gcc -Wall temps.c -o ws
+#1549028023
+./ws
+#1549028053
+vi temps.c 
+#1549028077
+gcc -Wall temps.c -o ws
+#1549028080
+./ws
+#1549028131
+~md-nour.hossain/submit 144SJJ_w3_lab
+#1549028630
+cd ..
+#1549028632
+cd home
+#1549028643
+gcc -Wall temps.c -o ws
+#1549028650
+vi temps.c 
+#1549028890
+gcc -Wall temps.c -o ws
+#1549028897
+./ws
+#1549028999
+vi reflect.txt 
+#1549029184
+exit
+#1549032316
+cd ipc144j/w1
+#1549032318
+ls
+#1549032334
+vi ws_lab.c
+#1549032348
+ls
+#1549032356
+rmws_lab.c
+#1549032360
+rm ws_lab.c
+#1549032367
+vi w1_lab.c
+#1549032397
+vi w1_home.c
+#1549032429
+exit
+#1549038077
+cd ipc144j/w1
+#1549038083
+ls
+#1549038126
+vi w1_lab
+#1549038162
+ls -l
+#1549038173
+vi w1_lab.c
+#1549038186
+vi w1_home.c
+#1549038975
+cd ../w3
+#1549038977
+ls -la
+#1549038981
+cd home
+#1549038985
+vi reflect.txt 
+#1549039142
+vi temps.c 
+#1549039203
+cd ../lab
+#1549039206
+vi temps.c 
+#1549039363
+~md-nour.hossain/submit 144SJJ_w3_home
+#1549039369
+ls -la
+#1549039374
+cd ..
+#1549039378
+cd home
+#1549039382
+~md-nour.hossain/submit 144SJJ_w3_home
+#1549053009
+tree -C
+#1549054246
+cd uli101j/
+#1549057667
+tree -C
+#1549057675
+mkdir week4
+#1549057677
+cd week4
+#1549057680
+ls
+#1549057914
+cp -r ~john.samuel/useful_files/review_excercises/week4review .
+#1549057937
+cp -r ~john.samuel/useful_files/review_exercises/week4review .
+#1549057939
+ls -l
+#1549060022
+gkfgk
+#1549060038
+exit
+#1549304997
+cd uli101j/week4
+#1549304999
+ls
+#1549305001
+cd week4review/
+#1549305003
+ls
+#1549305014
+vi w4review
+#1549306237
+cd 
+#1549306240
+tree
+#1549306252
+ls ipc144j/ -l
+#1549306299
+chmod w* 700
+#1549306316
+chmod 700 w*
+#1549306324
+chmod 700 w?
+#1549306328
+chmod 700 w1
+#1549306341
+1ls -la
+#1549306345
+ls -la
+#1549306352
+cd ipc144j/
+#1549306357
+chmod 700 w*
+#1549306361
+ls -la
+#1549306454
+chmod 600 w*
+#1549306457
+ls -l
+#1549306462
+cd w1
+#1549306469
+chmod 700 w*
+#1549306472
+cd w1
+#1549306476
+ls -la
+#1549306486
+cd ..
+#1549306488
+ls -la
+#1549306684
+cd ../uli101j
+#1549306686
+ls -la
+#1549306700
+mkdir week5
+#1549306709
+tree -Cp
+#1549306725
+cd week5
+#1549306967
+cp -r ~john.samuel/useful_files/data_files .
+#1549306970
+ls -la
+#1549306974
+cd data_files/
+#1549306977
+ls -ls
+#1549306986
+clear
+#1549306988
+ls -la
+#1549307118
+tree -C ../..
+#1549307131
+clear
+#1549307133
+ls -la
+#1549307189
+clear
+#1549307192
+ls -l
+#1549307287
+cat people.csv
+#1549307478
+head people.csv 
+#1549307514
+head -10 people.csv
+#1549307528
+head -50 people.csv
+#1549307538
+clear
+#1549307540
+ls -la
+#1549307559
+tail -20 people.csz
+#1549307563
+tail -20 people.csv
+#1549307829
+clear
+#1549308489
+cat tab_data 
+#1549308571
+cut -f2,4 tab_data 
+#1549308770
+cut -f2,4 comma_data 
+#1549309011
+cut -d, -f2,4 comma_data 
+#1549309092
+cut -d, -f1,3 people.csv 
+#1549309143
+clear
+#1549309146
+ls
+#1549309154
+cat space_data 
+#1549309175
+cut -d -f1 space_data 
+#1549309210
+cut -d\ -f1 space_data 
+#1549309217
+cut -d' ' -f1 space_data 
+#1549309425
+sort space_data 
+#1549309535
+sort -k3 space_data 
+#1549309697
+sort -k5 -n space_data 
+#1549309710
+sort -k5 -nr space_data 
+#1549309901
+clear
+#1549309905
+ls -l
+#1549310028
+grep Ethan people.csv
+#1549310042
+grep ON people.csv
+#1549310330
+head people.csv
+#1549310362
+grep F5C
+#1549310375
+grep F5C people.csv
+#1549310428
+grep "F5C 1J7" people.csv
+#1549310465
+exit
+#1549380432
+tree -C
+#1549419075
+cd uli101j/
+#1549419079
+ls -l
+#1549419091
+mkdir assignment
+#1549419094
+cd assignment/
+#1549419135
+cp -r ~uli101/2019a/VI .
+#1549571608
+~uli101/a2
+#1549571680
+tree -Cp uli101j/
+#1549571700
+cd ass/vi
+#1549571703
+ls -l
+#1549571741
+wpd
+#1549571744
+pwd
+#1549571756
+cd uli101j//assignment/vi
+#1549571760
+cd uli101j//assignment/
+#1549571762
+ls
+#1549571766
+cd VI
+#1549571767
+ls
+#1549571777
+clear
+#1549571780
+ls -la
+#1549571836
+vi 1basics 
+#1549572654
+cd 
+#1549572658
+ls -la
+#1549572684
+mv -r uli101j/assignment/VI .
+#1549572702
+mv uli101j/assignment/VI .
+#1549572705
+treee
+#1549572708
+tree
+#1549572712
+tree uli101j/
+#1549572725
+ls
+#1549572819
+cd vi
+#1549572823
+ls
+#1549572826
+cd VI
+#1549572832
+vi 6vimtutor 
+#1549641948
+cd ipc144j/w4
+#1549641950
+ls
+#1549641953
+cd lab
+#1549641954
+ls
+#1549641987
+gcc -Wall temps2.c -o ws
+#1549641990
+ws
+#1549642103
+~md-nour.hossain/submit 144SJJ_w4_lab
+#1549642475
+cd ../home
+#1549642477
+ls -l
+#1549642487
+vi temps.c
+#1549642507
+ls
+#1549642516
+vi temps2.c
+#1549642755
+vi reflect.txt
+#1549644954
+vi temps2.c
+#1549646491
+gcc -Wall temps2.c -o ws
+#1549646504
+vi temps2.c
+#1549646623
+gcc -Wall temps2.c -o ws
+#1549646836
+vi temps2.c
+#1549646851
+gcc -Wall temps2.c -o ws
+#1549646884
+~md-nour.hossain/submit 144SJJ_w4_home
+#1549657527
+clear
+#1549657612
+ls -la
+#1549658602
+cd uli101j/
+#1549658604
+ls
+#1549658610
+cd week5
+#1549658612
+ls
+#1549658616
+cd data_files/
+#1549658618
+ls -la
+#1549658635
+cut -f2,4 tab_data 
+#1549658694
+cat tab_data 
+#1549658711
+cut -f2,4 tab_data > out
+#1549658713
+ls
+#1549658717
+cat out
+#1549658839
+ls -la
+#1549658886
+cut -f1,3  tab_data > out
+#1549658889
+cat out
+#1549658931
+clear
+#1549658939
+ls > list
+#1549658942
+cat list
+#1549658980
+ls -l >> list
+#1549658983
+cat list
+#1549659082
+clear
+#1549659087
+ls -9
+#1549659188
+ls -9 2> err
+#1549659191
+cat err
+#1549659265
+ls -23 2>> err
+#1549659268
+cat err 
+#1549659274
+clear
+#1549659292
+cat tab_data 
+#1549659313
+clear
+#1549659316
+ls -l
+#1549659507
+cat  tab_data a
+#1549659627
+cat tab_data a > out 2>&1
+#1549659631
+cat out
+#1549659685
+clear
+#1549659687
+ls -la
+#1549659693
+cat err
+#1549659696
+cd ..
+#1549659704
+cd data_files/
+#1549659746
+tr a-z A-Z
+#1549659782
+tr aeiou AEIOU
+#1549659857
+clear
+#1549659864
+cat tab_data 
+#1549659932
+tr a-z A-Z < tab_data 
+#1549659997
+tr a-z A-Z < tab_data > out 
+#1549660000
+cat out
+#1549660037
+clear
+#1549660041
+ls -la
+#1549764715
+tree -C
+#1549747980
+cd vi
+#1549747983
+ls
+#1549747991
+cd VI
+#1549747993
+ls -la
+#1549748015
+vi 6vimtutor 
+#1549754198
+clear
+#1549754201
+cd ..
+#1549754204
+tree -C
+#1549754865
+ls
+#1549754867
+ls -la
+#1549754874
+cd /
+#1549754877
+ls -l
+#1549756635
+cd 
+#1549756637
+ls -l
+#1549756647
+touch testfile
+#1549756651
+vi testfile 
+#1549756693
+head testfile 
+#1549756703
+head -1 testfile 
+#1549756711
+head -2 testfile 
+#1549758125
+cd /
+#1549758146
+find -s 500m
+#1549758152
+find . 500m
+#1549758165
+ls -l
+#1549758174
+rm initramfs-3.10.0-693.5.2.el7.x86_64.img
+#1549758665
+man ln
+#1549759266
+man mv
+#1549760043
+man find
+#1549760174
+find . 10m
+#1549760186
+find . 10t
+#1549760206
+find . -sg1
+#1549760214
+find . 1g
+#1549760226
+find . -size 1g
+#1549760235
+find . -size 1000m
+#1549760241
+find . -size 1000
+#1549760484
+cd
+#1549760486
+cd sample_dir
+#1549760489
+dir
+#1549760508
+cd .. sample_dir2
+#1549760511
+ls -la
+#1549760519
+cd sample_dir2
+#1549760522
+ls -la
+#1549760528
+tree -C
+#1549760543
+find . 10k
+#1549760581
+find --help -size
+#1549761256
+diff
+#1549761264
+man diff
+#1549761588
+tl
+#1549762286
+cd sample_dir 
+#1549762289
+ls
+#1549762292
+tree
+#1549762297
+cd ..
+#1549762300
+tree
+#1549762304
+cd..
+#1549762305
+tree
+#1549762318
+cd sample_dir2
+#1549762321
+tree
+#1549762344
+grep "ford" stenton/gen_ed/cars2
+#1549762374
+grep "ford" sample_dir/stenton/gen_ed/cars2
+#1549762560
+grep "ford" sample_dir/stenton/gen_ed/cars2 > test
+#1549762564
+cat test
+#1549762569
+file test
+#1549762576
+file -d test
+#1549762586
+clear
+#1549762592
+cat test
+#1549762597
+size test
+#1549762606
+size
+#1549762615
+ls
+#1549762774
+size
+#1549762781
+size test
+#1549762787
+man size
+#1549762828
+fileman file
+#1549762831
+man file
+#1549764678
+tre -C
+#1549764684
+tree -C
+#1549744793
+cd uli101j/
+#1549744797
+cd week5
+#1549744798
+ls
+#1549744803
+cd data_files
+#1549744806
+ls -la
+#1549744810
+cat err
+#1549744823
+cat cars
+#1549744869
+sort --help
+#1549744888
+sort -t
+#1549744900
+cat sort -t
+#1549744916
+sort -t cars
+#1549744926
+cat cars
+#1549744939
+cat sort
+#1549744947
+man sort
+#1549745015
+sort cars
+#1549745039
+man sort
+#1549745068
+sort -c cars
+#1549745107
+sort -n10 cars
+#1549745112
+sort -n 10 cars
+#1549745120
+sort -n cars
+#1549745155
+sort -c2 cars
+#1549745159
+sort -c 2 cars
+#1549745169
+man sort
+#1549745207
+sort -k cars
+#1549745219
+sort -k,2 cars
+#1549745222
+sort -k2 cars
+#1549745237
+sort -k5 cars
+#1549745258
+cat cars
+#1549745281
+sort cars
+#1549745295
+ls
+#1549745317
+sort  people.csv -t,
+#1549745347
+sort  people.csv -n
+#1549745361
+clear
+#1549745364
+sort  people.csv -n
+#1549745375
+sort  people.csv -n3
+#1549745381
+sort  people.csv -n,3
+#1549745388
+sort  people.csv -k
+#1549745397
+man sort
+#1549745457
+sort people.csv -t, -k(???)
+#1549745473
+sort people.csv -t, -k,???
+#1549745479
+sort people.csv -t, -k???
+#1549745484
+sort people.csv -t, -k
+#1549745494
+sort --help
+#1549745562
+sort people.csv -t, -k=(???)
+#1549745586
+sort people.csv -t, -k=???
+#1549745594
+sort people.csv -t, -k=adam
+#1549745615
+sort people.csv -t, -kadam
+#1549745621
+sort people.csv -t, -k adam
+#1549745627
+sort people.csv -t, -k 'adam'
+#1549746019
+cat people.csv
+#1549746052
+sort -t, -f 2 people.csv
+#1549746067
+sort -t, -f,2 people.csv
+#1549746288
+sort -t, -k 2 people.csv
+#1549746361
+sort -c  people.csv
+#1549746502
+clear
+#1549746504
+ls -l
+#1549746510
+cat comma_data 
+#1549746544
+grep t533 comma_data 
+#1549746560
+cat people.csv
+#1549746576
+grep 123 people.csv
+#1549746602
+grep 999 people.csv
+#1549746608
+grep 855 people.csv
+#1549746650
+grep 855 people.csv -h
+#1549746668
+grep ON people.csv -h
+#1549746682
+grep ON people.csv
+#1549746701
+grep ON people.csv -c
+#1549746717
+grep ON people.csv -n
+#1549746726
+grep ON people.csv -i
+#1549746742
+grep ON people.csv -i -c
+#1549746767
+grep XXX people.csv -i -c -v
+#1549746779
+grep people.csv
+#1549746792
+cat people.csv
+#1549746810
+grep * people.csv -i -c -v
+#1549746844
+grep '*' people.csv -i -c -v
+#1549746861
+grep '*' people.csv -i -c 
+#1549746872
+grep * people.csv -i -c 
+#1549746898
+grep * people.csv -c 
+#1549746906
+grep '*' people.csv -c 
+#1549746916
+grep '*' people.csv -c -v
+#1549746934
+grep \* people.csv -c -v
+#1549746946
+clear
+#1549746949
+ls -l
+#1549746961
+head phones
+#1549746997
+cut -f 2 phones 
+#1549747043
+cut -d' '-f 2 phones 
+#1549747065
+cut -d -f 2 phones 
+#1549747070
+cut -d  -f 2 phones  
+#1549747194
+cut -b 1-10 phones
+#1549747338
+cut -c 1- phones 
+#1549747350
+clear
+#1549747394
+cut -c [a-zA-Z] people
+#1549747406
+cut -c [a-z,A-Z] people
+#1549747479
+cut -f  people
+#1549747503
+cut -f 1 people
+#1549747508
+ls
+#1549747510
+ls -l
+#1549747522
+cut -f 1 phones 
+#1549747567
+cut -d ' ' -f 1 phones 
+#1549747578
+cut -d ' ' -f 2 phones 
+#1549747584
+cut -d ' ' -f 3 phones 
+#1549747594
+cut -d ' ' -f 4 phones 
+#1549747602
+cat phones 
+#1549747779
+wc people.csv
+#1549747787
+wc people.csv -l
+#1549747792
+wc people.csv -w
+#1549747800
+wc people.csv -m
+#1549747818
+head -20 people.csv
+#1549747862
+tr
+#1549747880
+tr A-Z a-z
+#1549747934
+~uli101/a2
+#1549763299
+tree -C
+#1549763303
+cd 
+#1549763307
+tree -C
+#1549763326
+ls -l
+#1549763335
+cd -la
+#1549763343
+ls -la
+#1549763364
+tail myHistory 100
+#1549763405
+tail myHistory 
+#1549763422
+ls -la
+#1549763431
+cat bash_his
+#1549763443
+cat .bash_history
+#1549763475
+cp -r ~john.samuel/useful_files/review_excercises/week5review .
+#1549763486
+cp -r ~john.samuel/useful_files/review_exercises/week5review .
+#1549763492
+ls
+#1549763507
+mv week5review/ uli101j
+#1549763509
+ls
+#1549763512
+ls -la
+#1549763515
+cd uli101j/
+#1549763518
+tre
+#1549763521
+treee
+#1549763523
+tree
+#1549763550
+rm week2
+#1549763556
+ls
+#1549763564
+rm week2
+#1549763570
+re -r week2
+#1549763578
+rm -r week2
+#1549763583
+tree -C
+#1549763590
+cd 
+#1549763592
+tree -C
+#1549763614
+rm -r a1
+#1549763616
+tree -C
+#1549763645
+cd ipc144j/w5
+#1549763647
+ls
+#1549763651
+find .
+#1549814198
+tree -C
+#1549814235
+uli101/a2
+#1549814246
+~uli101/a2
+#1549816513
+exit
+#1549814386
+ps
+#1549814436
+ps f -f
+#1549814519
+pstree -A jgiroux1
+#1549814561
+pstree -A
+#1549814675
+cd uli
+#1549814678
+cd uli101j/
+#1549814679
+ls
+#1549814683
+tree
+#1549814708
+cd ../sample_dir2
+#1549814713
+tree
+#1549814723
+cd 
+#1549814729
+find . cars
+#1549814748
+find . 'cars'
+#1549814757
+find . 'cars3'
+#1549814780
+find . -name cars3
+#1549814819
+cd sample_dir2/sample_dir/
+#1549814822
+cat cars3
+#1549814845
+tail -f cars3 &
+#1549815452
+tail -f cars3
+#1549815473
+tail -f cars3 &
+#1549815561
+jobs
+#1549815637
+fg %2
+#1549815676
+jobs
+#1549815741
+bg %2
+#1549815747
+jobs
+#1549815787
+kill %3
+#1549815789
+jobs
+#1549815886
+kill -SIGTSTP %1
+#1549815892
+jobs
+#1549815965
+kill %1 %2
+#1549815970
+jobs
+#1549816021
+tails cars3
+#1549816026
+tail cars3
+#1549816036
+man tail
+#1549816532
+exit
+#1549833073
+cd uli101j/
+#1549833075
+tree
+#1549833115
+cd week5review/
+#1549833119
+ls
+#1549833135
+cat w5reviewanswers 
+#1549833157
+cat w5review
+#1549833254
+exit
+#1549838009
+cd uli101j/week5
+#1549838011
+ls -l
+#1549838015
+ls
+#1549838020
+cd data_files/
+#1549838029
+cat people.csv
+#1549838067
+cut -d, f2,4 people.csv | sort -r | head -10 | tail -3 | grep "joe" > out.txt 2> /dev/null
+#1549838129
+cut -d, -f2,4 people.csv | sort -r | head -10 | tail -3 | grep "joe" > out.txt 2> /dev/null
+#1549838138
+cat out.txt
+#1549838147
+ls
+#1549838150
+ls -l
+#1549838158
+rm out.txt
+#1549838163
+cat out
+#1549838181
+more people.csv
+#1549838218
+cd ../week5
+#1549838221
+cd ..
+#1549838250
+cd ../week5review/
+#1549838257
+vi w5reviewanswers 
+#1549838322
+cd uli101j/
+#1549838332
+cd week5/data_files/
+#1549838348
+head people.csv
+#1549838363
+head -10 people.csv
+#1549838380
+cat people.csv 
+#1549838556
+cut -d, -f2,4 people.csv | sort -r | head -10 | tail -3 | grep joe > out.txt 2> /dev/null
+#1549838559
+ls
+#1549838565
+cat out.txt 
+#1549838587
+cut -d, -f2,4 people.csv | sort -r | head -10 | tail -3 | grep joe > out.txt 2> err
+#1549838590
+cat err
+#1549838670
+ls -l
+#1549838683
+rm err out out.txt
+#1549838685
+ls -l
+#1549838703
+cut -d, -f2,4 people.csv | sort -r | head | tail -3 | grep joe > out.txt 2> /dev/null
+#1549838708
+ls -l
+#1549838773
+rm out*
+#1549838781
+cut -f2,4 -d, people.csv | sort -r | head | tail -3 | grep joe > out.txt 2> /dev/null
+#1549838786
+ls -l
+#1549839424
+sort -k2 -t, people.csv | cut -f1,3-5 -d, | head | tee temp | grep -niv joe > out.txt 2>&1
+#1549839431
+cat out.txt 
+#1549837578
+cd uli101j
+#1549837580
+l
+#1549837582
+ls
+#1549837590
+cd week5
+#1549837591
+ls
+#1549837597
+cd data_files/
+#1549837599
+ls
+#1549837603
+cd../..
+#1549837607
+cd ../..
+#1549837612
+cd week5review/
+#1549837624
+vi w5review
+#1549839527
+ls -la
+#1549839535
+rm .*
+#1549839543
+re -r .*
+#1549839546
+ls -la
+#1549839574
+rm -r .nfs0000000080efef6d00000002 
+#1549839580
+ps
+#1549839585
+logs
+#1549839781
+cd ..
+#1549839785
+ls
+#1549839789
+cd week4
+#1549839791
+ls
+#1549839796
+cd week4review/
+#1549839801
+vi w4review
+#1549839812
+ls -la
+#1549839824
+rm .*
+#1549839835
+rm .w4*
+#1549839841
+ls -l
+#1549839847
+vi w4review
+#1549840970
+vf w4reviewanswers 
+#1549840983
+vi w4reviewanswers 
+#1549841239
+ls -l
+#1549841249
+tree
+#1549841252
+cd ../..
+#1549841254
+tree
+#1549841257
+tree -C
+#1549843609
+clear
+#1549843611
+tree -C
+#1549843619
+cd 
+#1549841351
+tree -C
+#1549901771
+cd uli101j/
+#1549901774
+ls -l
+#1549901779
+cd week5
+#1549901781
+ls
+#1549901784
+cd data_files/
+#1549901785
+ls
+#1549901809
+sort -k, people.csv
+#1549901835
+sort people.csv
+#1549901851
+man sort
+#1549901886
+cd ../week5review
+#1549901889
+cd ..
+#1549901893
+ls
+#1549901899
+cd ../week5review/
+#1549901901
+ls
+#1549901907
+vi w5review
+#1549910452
+cd week5
+#1549910456
+cd uli101j/
+#1549910457
+ls
+#1549910464
+xs week5review/
+#1549910475
+cd week5review/
+#1549910483
+vi w5review
+#1549911165
+cd ..
+#1549911177
+exit
+#1549911348
+cd uli101j/
+#1549911354
+mkdir week6
+#1549911357
+cd week6
+#1549911359
+ls
+#1549911383
+cd ../week5
+#1549911385
+ls
+#1549911399
+cd data_files/
+#1549911401
+ls
+#1549911528
+tar -cvf data.tar new_inventory tab_data 
+#1549911548
+ls -l
+#1549911554
+ls *.tar
+#1549911578
+mv data.tar ../../week6
+#1549911597
+cd ../../week6
+#1549911600
+ls -l
+#1549911711
+exit
+#1549914348
+exxit
+#1549914351
+ls -l
+#1549914355
+cd VI
+#1549914357
+ls -l
+#1549914364
+clear
+#1550073420
+scp
+#1550073478
+cd uli101j/week5
+#1550073480
+ls
+#1550073483
+cd data_files/
+#1550073486
+ls -l
+#1550073544
+tar -cvf *.*
+#1550073601
+tar -cvf data_files
+#1550073660
+tar -cvf data_files *.*
+#1550073677
+tar -cvf data_files *
+#1550073682
+ls -la
+#1550073701
+cat data_files 
+#1550073758
+sftp jgiroux1@matrix.senecac.on.ca
+#1550075538
+ls -l
+#1550075546
+cd uli101j/
+#1550075548
+ls -l
+#1550100546
+tree -C
+#1550100562
+cd VI
+#1550100585
+vi 5tricks 
+#1550161305
+ls -la
+#1550161310
+pwd
+#1550161315
+cd uli`
+
+#1550161325
+cd uli101j/
+#1550161427
+ls -la
+#1550242253
+pwd
+#1550242268
+cd ipc144j/
+#1550242269
+ls
+#1550242273
+cd w5
+#1550242275
+ls
+#1550242279
+tree -C
+#1550243431
+vi lab/emp_inlab.c 
+#1550243718
+~md-nour.hosain/submit 144SJJ_w5_lab
+#1550243726
+~md-nour.hossain/submit 144SJJ_w5_lab
+#1550243733
+cd lab
+#1550243736
+~md-nour.hossain/submit 144SJJ_w5_lab
+#1550243870
+vi emp_inlab.c 
+#1550243939
+~md-nour.hossain/submit 144SJJ_w5_lab
+#1550244022
+vi emp_inlab.c 
+#1550244064
+~md-nour.hossain/submit 144SJJ_w5_lab
+#1550244950
+cd ../home
+#1550244952
+ls -l
+#1550244957
+vi reflect.txt 
+#1550245652
+~md-nour.hossain/submit 144SJJ_w5_home
+#1550245660
+ls
+#1550245687
+mv Reflect.txt reflect.txt
+#1550245691
+~md-nour.hossain/submit 144SJJ_w5_home
+#1550246003
+exit
+#1550262573
+clear
+#1550264458
+ls
+#1550264469
+ls ?[a-z]?
+#1550265102
+ls
+#1550265109
+cat testfile 
+#1550265136
+cp ~/sample_dir
+#1550265740
+ls
+#1550265744
+cd uli101j/
+#1550265746
+ls -l
+#1550265756
+cd week6
+#1550265757
+ls
+#1550265765
+cd ../week5
+#1550265766
+ls
+#1550265770
+cd data_files/
+#1550265772
+ls -l
+#1550265791
+head people.csv 
+#1550265844
+grep "Joe" people.csv | wc -w >
+#1550265854
+grep "Joe" people.csv
+#1550265870
+grep "Joe" people.csv >
+#1550265875
+grep "Joe" people.csv >>
+#1550265922
+grep "Joe" people.csv | wc >> out.txt
+#1550265927
+cat out.t
+#1550266899
+grep -k
+#1550266975
+man grep -k
+#1550266997
+clear
+#1550536346
+cd ipc144j/w5
+#1550536352
+cd home
+#1550536357
+ls -l
+#1550536378
+cat emp_athome.c 
+#1550536479
+exit
+#1550688296
+ls
+#1550688302
+who
+#1550688327
+w
+#1550688495
+ls
+#1550688499
+tree -c
+#1550688550
+date'
+#1550688557
+date
+#1550691138
+dir
+#1550692101
+cd uli101j/
+#1550692103
+ls
+#1550692109
+tree -C
+#1550692125
+cd week5/data_files/
+#1550692128
+ls -l
+#1550692132
+cat cars
+#1550692149
+wc -c cars 2>> log.txt
+#1550692159
+wc -w cars 2>> log.txt
+#1550692168
+cat log.txt
+#1550692172
+rm log.txt 
+#1550692174
+ls -l
+#1550692570
+vi cars
+#1550771867
+cd ipc144j/a1/
+#1550771869
+ls -l
+#1550771914
+gcc -Wall -o ms2 a1ms2.c
+#1550771916
+ls -l
+#1550771920
+ms2
+#1550772046
+ls -l
+#1550772052
+rm ms2
+#1550772053
+ls -l
+#1550772059
+cat a1ms2.c 
+#1550772214
+exit
+#1550773883
+cd ipc144j/w5/
+#1550773885
+ls -l
+#1550773888
+cd home
+#1550773903
+ls -l
+#1550773909
+vi emp_athome.c 
+#1550773956
+exit
+#1550779129
+~uli101/a2
+#1550779422
+exit
+#1550853706
+cd uli101j/
+#1550853708
+ls -la
+#1550853714
+cd week6
+#1550853716
+ls -l
+#1550854594
+man tar
+#1550854782
+man sort
+#1550855250
+man grep
+#1550855270
+grep --help
+#1550856731
+ls -
+#1550856735
+ls -l
+#1550856740
+cat data.tar 
+#1550856762
+ls -l
+#1550856769
+cat frag04.pdf 
+#1550856996
+ls
+#1550857000
+cd mm
+#1550857001
+cd ..
+#1550857003
+ls -l
+#1550857011
+cd week5
+#1550857012
+ls -l
+#1550857017
+cd data_files/
+#1550857019
+ls
+#1550857021
+ls -l
+#1550857027
+cat new_inventory 
+#1550857034
+cat out.txt 
+#1550858247
+cd
+#1550858255
+cd ipc144j/a1
+#1550858257
+ls -l
+#1550858267
+vi a1ms2.c
+#1550861177
+man grep
+#1550861969
+ls -l
+#1550861993
+cd VI
+#1550861996
+ls -l
+#1550862003
+cat TEST
+#1550862011
+vi TEST
+#1551044124
+cd ipc144j/a1/
+#1551044127
+ls -l
+#1551044133
+vi a1ms2.c 
+#1551044188
+cat a1ms2.c 
+#1551044251
+vi a1ms2.c 
+#1551044521
+cat a1ms2.c 
+#1551044588
+cat a1ms2.c a1ms2.old.c
+#1551044612
+mv a1ms2.c a1ms2.old.c
+#1551044618
+ls -l
+#1551044625
+exit
+#1551375457
+clear
+#1551375460
+ls -l
+#1551375477
+cd public_html/
+#1551375480
+ls -ls
+#1551384336
+w
+#1551384359
+man tty
+#1551384383
+exit
+#1551398813
+ls -l
+#1551398820
+cd ipc144j/a1
+#1551398826
+cat a1ms2.old.c 
+#1551398849
+exit
+#1551501844
+cd ipc144
+#1551501868
+ls -l
+#1551501884
+cd ipc144
+#1551501901
+cs ipc144
+#1551725102
+man file
+#1551725206
+ls -l
+#1551725226
+ls *.[red]
+#1551725294
+touch abc
+#1551725300
+vi abc 
+#1551725320
+cat abc
+#1551725342
+tr eoiua 12345 abc
+#1551725358
+man tr
+#1551725426
+cat abc | tr eoiua 12345 >> abc
+#1551725430
+cat abc
+#1551725928
+~uli101/a1
+#1551726247
+ls -l
+#1551726325
+tr eoiua 12345 < abc
+#1551726557
+cat abc
+#1551727768
+vi abc 
+#1551727807
+tr eoiua 12345 < abc
+#1551727823
+cat abc
+#1551727840
+tr eoiua 12345 < abc >> abc
+#1551727843
+cat a
+#1551727845
+cat abc 
+#1551727856
+clear
+#1551727860
+ls -l
+#1551727864
+cd uli101j/
+#1551727867
+ls -l
+#1551727954
+tree -C
+#1551728015
+~uli101/a3
+#1551728760
+ls -l
+#1551728835
+mkdir week8
+#1551728838
+cd week8
+#1551728840
+ls -l
+#1551729035
+tree ..
+#1551729042
+clear
+#1551729075
+touch f1
+#1551729092
+vi f1
+#1551729108
+cat f1
+#1551729170
+la
+#1551729176
+ls -l
+#1551729191
+ls -i
+#1551729206
+touch f2
+#1551729209
+ls -i
+#1551729395
+ls -li
+#1551729548
+ln f1 file1
+#1551729551
+ls -li
+#1551729611
+cat file1
+#1551729659
+vi file1
+#1551729679
+ls -li
+#1551729688
+cat f1
+#1551729691
+cat file1
+#1551729706
+cp f1 f1_copy
+#1551729708
+ls -li
+#1551729939
+mv file1 ..
+#1551729945
+ls -li
+#1551729949
+cd ..
+#1551729952
+ls -li
+#1551730031
+mv file1 week8
+#1551730035
+cd week8
+#1551730038
+ls -li
+#1551730055
+re f1
+#1551730061
+rm f1
+#1551730063
+ls -li
+#1551730095
+cat f1_copy 
+#1551790059
+pwsh
+#1551790067
+ls -l
+#1551790075
+tree -C
+#1552064319
+cd ipc144j/
+#1552064320
+ls -l
+#1552064325
+cd a1
+#1552064339
+ls -l
+#1552064345
+cd ms1_ms2/
+#1552064348
+ls -l
+#1552064412
+gcc -Wall -o ms2 a1ms2.c
+#1552064444
+ls -l
+#1552064578
+gcc -Wall -o ms2 a1ms2.c
+#1552065005
+ls -la
+#1552065050
+~md-nour.hossain/submit 144SJJ_a1ms2
+#1552066232
+exit
+#1552074666
+~uli101/a3
+#1552074679
+exit
+#1552077048
+cd uli101j/week8
+#1552077050
+ls -l
+#1552077111
+ls -li
+#1552077127
+cat f2
+#1552077134
+rm f2
+#1552077136
+ls -li
+#1552077203
+ln f1_copy f1
+#1552077206
+ls -li
+#1552077213
+cat file1
+#1552077221
+ls -li
+#1552077607
+find ~ -samefile f1
+#1552077960
+chmod 600 f1
+#1552077964
+ls -li
+#1552078286
+ln -s f1 f1_soft
+#1552078290
+ls -li
+#1552078426
+cat f1_soft 
+#1552078469
+chmod 700 f1_soft
+#1552078472
+ls -li
+#1552078657
+cd ..
+#1552078677
+ln week8 w8
+#1552078683
+ln -s week8 w8
+#1552078688
+ls -il
+#1552078692
+cd w8
+#1552078697
+cd ..
+#1552078702
+cd w8
+#1552078705
+ls -l
+#1552078714
+cd week8
+#1552078789
+clear
+#1552078793
+cd .. 
+#1552078795
+cd week8
+#1552078798
+ls -li
+#1552078817
+rm f1
+#1552078821
+ls -li
+#1552078840
+ln f1_copy f1
+#1552078842
+ls -li
+#1552078976
+clear
+#1552078980
+ls -l
+#1552079059
+cp ~john.samuel/useful_files/loop_120 .
+#1552079063
+ls -la
+#1552079076
+cat loop_120 
+#1552079105
+./loop120
+#1552079109
+loop120
+#1552079118
+file loop120
+#1552079125
+file loop_120
+#1552079131
+loop_120
+#1552079154
+clear
+#1552079157
+ls -li
+#1552079176
+chmod 700 loop_120
+#1552079179
+loop_120
+#1552079278
+bg loop_120
+#1552079341
+loop_120
+#1552079480
+jobs
+#1552079493
+loop_120
+#1552079497
+jobs
+#1552079521
+fg 1
+#1552079556
+jobs
+#1552079559
+fg 2
+#1552079583
+loop_120
+#1552079624
+bg 1
+#1552079629
+ls
+#1552079634
+ls -ls
+#1552079641
+jobs
+#1552079674
+ls -l
+#1552079734
+loop_120 &
+#1552079742
+jobs
+#1552079871
+fg 2
+#1552079876
+jobs
+#1552079897
+loop_120 &
+#1552079902
+jobs
+#1552079914
+fg 2
+#1552079927
+jobs
+#1552079930
+kill3
+#1552079936
+kill 1
+#1552079981
+jobs
+#1552079989
+clear
+#1552080020
+loop_120 &
+#1552080024
+jobs
+#1552080030
+fg 1
+#1552080034
+jobs
+#1552080049
+kill -9 %1
+#1552080053
+jobs
+#1552080062
+clear
+#1552080073
+loop_120 &
+#1552080076
+jobs
+#1552080086
+kill -9 %1
+#1552080090
+jobs
+#1552080146
+loop_120 &
+#1552080160
+kill 233004
+#1552080163
+jobs
+#1552080449
+top
+#1552080584
+clear
+#1552080605
+du ~
+#1552080668
+du -h ~
+#1552080711
+df -h
+#1552080769
+quota
+#1552080792
+quota -s
+#1552080875
+clear
+#1552080882
+exit
+#1552086354
+top
+#1552086374
+tree
+#1552086416
+cd ipc144j/a1/
+#1552086419
+ls -ls
+#1552086425
+cd ms1_ms2/
+#1552086428
+ls -li
+#1552086435
+cat diff.txt
+#1552086457
+rm diff.txt
+#1552086459
+ls -l
+#1552086479
+cat 144_a1ms2_output.txt 
+#1552086529
+ls -li
+#1552086543
+cat output.txt
+#1552086574
+cd ../ms3_ms4
+#1552086576
+ls
+#1552086579
+ls -li
+#1552086616
+gcc -Wall -o ms4 a1ms4.c contacts.c
+#1552086620
+ls -la
+#1552086627
+ms4
+#1552087307
+~md-nour.hossain/submit 144SJJ_a1ms4
+#1552087417
+clear
+#1552087427
+exit
+#1552324559
+cd uli101j/week8
+#1552324563
+tree ..
+#1552324569
+ls -li
+#1552325869
+ls -la
+#1552326302
+cat loop_120 
+#1552326384
+loop_120 &
+#1552326389
+job
+#1552326392
+jobs
+#1552326396
+kill 1
+#1552326403
+kill -9 1
+#1552326415
+clear
+#1552326419
+loop_120 &
+#1552326427
+jobs
+#1552326440
+kill -9 %1
+#1552326443
+jobs
+#1552326471
+ls
+#1552326474
+ls -li
+#1552326574
+file loop_120 
+#1552326601
+ps
+#1552326607
+top
+#1552326625
+du -h ~
+#1552326644
+df -h ~
+#1552326655
+quota -s
+#1552326670
+clear
+#1552326677
+cd ..
+#1552326684
+mkdir week9
+#1552326688
+cd week9
+#1552326690
+ls -l
+#1552326713
+tree ..
+#1552326742
+cp ../week5/data_files .
+#1552326761
+cp ../week5/data_files/ .
+#1552326781
+cp -r ../week5/data_files .
+#1552326784
+ls
+#1552326790
+cd data_files/
+#1552326792
+ls -l
+#1552326812
+clear
+#1552326818
+head phones 
+#1552326853
+cat people.csv 
+#1552326991
+grep ON people.csv
+#1552327020
+grep M people.csv
+#1552327823
+man grep
+#1552328072
+grep "[A-Z][0-9][A-Z]" people.csv 
+#1552328169
+grep "[A-Z][0-9][A-Z] [0-9][A-Z][0-9]" people.csv 
+#1552328355
+grep clear
+#1552328361
+clear
+#1552328364
+cat tab_data 
+#1552328396
+grep "s[aeiou]" tab_data 
+#1552328408
+grep "s[!aeiou]" tab_data 
+#1552328450
+grep "s[\!aeiou]" tab_data 
+#1552328491
+grep "s[^aeiou]" tab_data 
+#1552329469
+grep -i "a.[^aeiou]"
+#1552329482
+grep -i "a.[^aeiou]" people.csv 
+#1552329597
+clear
+#1552329709
+grep "arr*" people.csv 
+#1552329729
+grep "em*" people.csv 
+#1552329764
+grep "da*" people.csv 
+#1552329853
+grep "2[12]*" people.csv 
+#1552329955
+clear
+#1552329982
+grep "lll*" people.csv 
+#1552330044
+grep "(ll)*" people.csv 
+#1552330092
+egrep "(ll)*" people.csv 
+#1552330182
+clear
+#1552330193
+head people.csv 
+#1552330286
+grep "\.edu" people.csv 
+#1552330330
+grep "\.(edu|org)" people.csv 
+#1552330338
+egrep "\.(edu|org)" people.csv 
+#1552330551
+egrep "\.(edu|org)" people.csv
+#1552330556
+clear
+#1552330563
+egrep "\.(edu|org)" people.csv
+#1552333887
+cd uli101j/week9
+#1552333889
+ls -l
+#1552333895
+cd data_files/
+#1552333898
+ls -l
+#1552333904
+top people.csv 
+#1552333913
+head people.csv 
+#1552333987
+egrep "[\(][0-9][0-9[0-9][\)]" people.csv 
+#1552334000
+egrep "[(][0-9][0-9[0-9][)]" people.csv 
+#1552334016
+egrep "[\(][0-9][0-9][0-9][\)]" people.csv 
+#1552334069
+egrep "[\(][0-9][0-9][0-9][\)] [0-9][0-9][0-9][-][0-9][0-9][0-9][0-9]" people.csv 
+#1552334082
+egrep "[\(][0-9][0-9][0-9][\)] [0-9][0-9][0-9][\-][0-9][0-9][0-9][0-9]" people.csv 
+#1552334103
+clear
+#1552334112
+egrep "[\(][0-9][0-9][0-9][\)] [0-9][0-9][0-9][\-][0-9][0-9][0-9][0-9]" people.csv 
+#1552334137
+egrep ".@." people.
+#1552334141
+egrep ".@." people.csv 
+#1552334218
+egrep ".*@.*" people.csv 
+#1552334245
+egrep ".@." people.csv 
+#1552334317
+exit
+#1552424295
+ps f -f
+#1552424309
+jobs
+#1552424352
+ps
+#1552424361
+ps f -f
+#1552424397
+pstree -A jgiroux1
+#1552424446
+pstree -A
+#1552424462
+pstree
+#1552424542
+cd uli101j/week9
+#1552424549
+ls
+#1552424552
+cd data_files/
+#1552424562
+tail -f cars
+#1552424586
+tail -f cars &
+#1552424635
+tail -f cars&
+#1552424649
+tail -f cars &
+#1552424658
+jobs
+#1552424677
+bg %1
+#1552424681
+jobs
+#1552424704
+kill -9 %1 %2 %3
+#1552424707
+jobs
+#1552424714
+kill -9 %1
+#1552424717
+kill -9 %2
+#1552424720
+job
+#1552424725
+jobs
+#1552424734
+kill -9 %4
+#1552424736
+job
+#1552424743
+jobs
+#1552424763
+ls -l
+#1552424767
+cd ..
+#1552424772
+cd ../week8
+#1552424774
+ls
+#1552424781
+loop_120 &
+#1552424791
+jobs
+#1552424796
+fg %1
+#1552424139
+~ulli101/a2
+#1552424151
+~uli101/a2
+#1552437352
+exit
+#1552501548
+cd ipc144j/a1/ms3_ms4/
+#1552501554
+ls -l
+#1552501566
+rm ms4
+#1552501617
+gcc -Wall -o ms4 a1ms4.c contacts.c
+#1552501620
+ls -l
+#1552501645
+~md-nour.hossain/submit 144SJJ_a1ms4
+#1552504324
+ls -la
+#1552504349
+gcc -Wall -o ms4 a1ms4.c contacts.c
+#1552504352
+ls -l
+#1552504584
+egrep "contact" contacts.c
+#1552504616
+exit
+#1552579994
+cd ipc144j/a1/ms3_ms4/
+#1552579996
+ls -la
+#1552580000
+rm ms4
+#1552580030
+gcc -Wall -o ms4 a1ms4.c contacts.c
+#1552580032
+ls -la
+#1552580113
+~md-nour.hossain/submit 144SJJ_a1m4
+#1552580126
+~md-nour.hossain/submit 144sjj_a1m4
+#1552580160
+~md-nour.hossain/submit 144SJJ_a1ms4
+#1552583100
+exit
+#1552600180
+w
+#1552600193
+cd ipc144j/a1/ms3_ms4/
+#1552600196
+ls -l
+#1552600225
+gcc -Wall -o ms4 a1ms4. contacts.c
+#1552600231
+ls -l
+#1552600239
+gcc -Wall -o ms4 a1ms4.c contacts.c
+#1552600262
+~md-hossain/submit 144SJJ_a1ms4
+#1552600344
+~md-nour.hossain/submit 144SJJ_a1ms4
+#1552601392
+./ms4
+#1552601565
+exit
+#1552678550
+cd uli101j/week9
+#1552678555
+tree ..
+#1552678563
+cd data_files/
+#1552678568
+ls -l
+#1552678636
+grep "9.5" people.csv 
+#1552678690
+grep "9.*5" people.csv 
+#1552678925
+grep "[0-9]9" people.csv 
+#1552678946
+grep "[0-9]9*" people.csv 
+#1552678994
+grep "[0-9](99)*" people.csv 
+#1552679009
+egrep "[0-9](99)*" people.csv 
+#1552679025
+clear
+#1552679029
+egrep "[0-9](99)*" people.csv 
+#1552679215
+clear
+#1552679259
+egrep "[aeiou]tt*[aeiou]" people.csv
+#1552679295
+egrep "[aeiou](tt)*[aeiou]" people.csv
+#1552679370
+clear
+#1552679388
+ls -l
+#1552679600
+cat tab_data 
+#1552679637
+grep "5$" tab_data 
+#1552679723
+grep "j\0" tab_data 
+#1552679739
+grep "^j" tab_data 
+#1552679857
+egrep "^[^j]" tab_data 
+#1552680209
+ls -l
+#1552680280
+gep "ON$" people.csv 
+#1552680291
+egrep "ON$" people.csv 
+#1552680321
+egrep "'ON'$" people.csv 
+#1552680335
+egrep "ON$" people.csv 
+#1552680369
+egrep "ON,$" people.csv 
+#1552680404
+egrep "ON$" people.csv 
+#1552680534
+cat -vet people.csv 
+#1552680809
+vi tab_data 
+#1552681279
+cd
+#1552681281
+ls -l
+#1552681289
+cat myHistory 
+#1552681312
+cd uli101j/week9
+#1552681383
+cp -r ~john.samuel/useful_files/review_exercises/week9review .
+#1552681385
+ls
+#1552846665
+cd uli101j/week9/week9review/
+#1552846672
+vi w9reviewanswers 
+#1552839900
+tree -C
+#1552839926
+rm -r week5
+#1552839936
+cd uli101j/week5
+#1552839940
+cd ..
+#1552839953
+rm -r week5
+#1552839956
+ls
+#1552839958
+ls -l
+#1552839974
+cd week9r
+#1552839983
+cd week9
+#1552839987
+cd week9review/
+#1552839988
+ls
+#1552839992
+ls -li
+#1552839998
+cat new_inventory 
+#1552840026
+vi w9review
+#1552840105
+cd uli101j/wee9
+#1552840110
+cd uli101j
+#1552840112
+ls
+#1552840116
+cd week9
+#1552840120
+ls -l
+#1552840125
+cd week9review/
+#1552840127
+ls 
+#1552840133
+cat new_inventory 
+#1552840138
+clear
+#1552840140
+cat new_inventory 
+#1552840159
+clear
+#1552840161
+cat new_inventory 
+#1552840518
+egrep "^[3-6]" new_inventory
+#1552840530
+cler
+#1552840532
+clear
+#1552840536
+cat new_inventory 
+#1552840941
+egrep "\,[A-L]" new_inventory
+#1552841136
+egrep "(Straberry|Rasberry) new_inventory
+#1552841147
+egrep "(Straberry|Rasberry)" new_inventory
+#1552841218
+egrep "(Strawberry|Rasberry)" new_inventory
+#1552841237
+egrep "(Strawberry|Raspberry)" new_inventory
+#1552841444
+clear
+#1552841449
+cleaegrep "[^b][^e][^rr][^y]" new_inventory
+#1552841462
+egrep "[^b][^e][^rr][^y]" new_inventory
+#1552841503
+egrep ".*[^b][^e][^rr][^y].*" new_inventory
+#1552841527
+egrep ".*[^berry].*" new_inventory
+#1552841553
+egrep "[^berry]" new_inventory
+#1552841581
+egrep -l "[^berry]" new_inventory
+#1552841630
+grep "[^berry]" new_inventory 
+#1552841685
+grep -r "[^berry]" new_inventory 
+#1552841691
+grep -v "[^berry]" new_inventory 
+#1552841716
+grep "[^berry]" new_inventory 
+#1552841749
+grep ".*[^berry].*" new_inventory 
+#1552841756
+ls -l
+#1552841870
+grep -v "berry" new_inventory 
+#1552845814
+egrep -v "berry" new_inventory 
+#1552845919
+clear
+#1552845936
+cat new_inventory 
+#1552846308
+egrep "\,[M-Z].*\,[1-2].*,[4-9]^" new_inventory
+#1552846330
+egrep ",[M-Z].*,[1-2].*,[4-9]^" new_inventory
+#1552846570
+egrep ",[M-Z].*,^[1-2]$[4-9]" new_inventory
+#1552846600
+egrep "\,[M-Z].*\,^[1-2]$[4-9]" new_inventory
+#1552846888
+egrep ".*[M-Z].*,[1-2].*[4-9].*" new_inventory
+#1552846917
+egrep ".*,[M-Z].*,[1-2].*[4-9].*" new_inventory
+#1552847008
+egrep ".*,[M-Z].*,[1-2].*[4-9],.*" new_inventory
+#1552847163
+cat new_inventory 
+#1552847243
+grep "^2-5" new_inventory 
+#1552847282
+grep "^[2-5]" new_inventory 
+#1552847295
+grep "^[^2-5]" new_inventory 
+#1552847377
+clear
+#1552847380
+cat new_inventory 
+#1552847495
+grep "^[^1-4]" new_inventory
+#1552847584
+grep ".*,.*,[89]" new_inventory
+#1552847626
+egrep ".*,[M-Z].*,[1-2].*[4-9]" new_inventory
+#1552847654
+egrep ".*,[M-Z].*,[1-2].*[4-9],.*" new_inventory
+#1552847714
+grep ".*,.*,[89]" new_inventory
+#1552847743
+clear
+#1552847747
+cat new_inventory 
+#1552847833
+egrep "(Straw|Blue)" new_inventory 
+#1552841780
+cd uli101j/week9/week9review/
+#1552841789
+vi w9review
+#1552841804
+ls -l
+#1552841814
+vi w9reviewanswers 
+#1552847924
+w
+#1552847940
+echo --help
+#1552847947
+man echo
+#1552847990
+echo --help
+#1552847995
+clear
+#1552848041
+ls -l
+#1552848047
+cat new_inventory 
+#1552848070
+egrep "[1-8]" new_inventory 
+#1552848082
+egrep "^[1-8]" new_inventory 
+#1552848101
+egrep "$[1-8]" new_inventory 
+#1552848137
+cat ne
+#1552848139
+cat new_inventory 
+#1552848159
+egrep "[$1-8]" new_inventory 
+#1552848190
+cat -vet new_inventory 
+#1552848213
+egrep "[1-8]$" new_inventory 
+#1552848239
+exit
+#1552850128
+cd ipc144j/a1
+#1552850131
+ls -l
+#1552850134
+cd ms3_ms4/
+#1552850139
+ls -l
+#1552850146
+cat contacts.c
+#1552850164
+ls -l
+#1552850196
+gcc -Wall ms4 a1ms4.c contacts.c
+#1552850206
+gcc -Wall -o ms4 a1ms4.c contacts.c
+#1552850208
+ls -l
+#1552850273
+~md-nour.hossain/submit 144SJJ_a1ms4
+#1552850733
+cd ..
+#1552850734
+ls
+#1552850736
+cd..
+#1552850742
+ls -l
+#1552850751
+mkdir a2
+#1552850754
+cd a2
+#1552850767
+mkdir ms2 ms3
+#1552850770
+ls -l
+#1552850779
+tree ../..
+#1552850784
+tree ..
+#1552850806
+mv ms3 ms4
+#1552850808
+ls -l
+#1552850813
+cd ms2
+#1552850816
+ls -l
+#1552856292
+exit
+#1552868649
+tree -C
+#1552868675
+cd uli101j/week3
+#1552868679
+ls -l
+#1552868689
+cd ../week8
+#1552868695
+ls -l
+#1552868701
+file f1
+#1552868720
+rm f1_copy
+#1552868724
+file f1
+#1552868727
+ls -l
+#1552868747
+loop_120 &
+#1552868758
+fg %2
+#1552868774
+jobs
+#1552868809
+fg %2
+#1552868820
+jobs
+#1552868832
+pid
+#1552868840
+ls -li
+#1552868846
+ps
+#1552868851
+top
+#1552932141
+ls -l
+#1552932147
+exit
+#1552932160
+jobs
+#1552932167
+man bash
+#1552932185
+korn
+#1552932198
+csh
+#1552932204
+ksh
+#1552932275
+cd ..
+#1552932280
+cd ../week10
+#1552932283
+ls -l
+#1552932525
+ps
+#1552932550
+less /etc/profile
+#1552932841
+cd 
+#1552932845
+ls -la
+#1552932872
+file .bashrc
+#1552932882
+cat .bashrc
+#1552932911
+cat .bash_profile 
+#1552932927
+car .bashrc
+#1552932932
+cat .bashrc
+#1552932990
+vi .bashrc
+#1552933082
+cl
+#1552933134
+source .bashrc
+#1552933136
+cl
+#1552933213
+vi .bashrc
+#1552933273
+alias
+#1552933282
+. .bashrc
+#1552933286
+alias
+#1552933290
+xx
+#1552933344
+cat .ssh
+#1552933348
+cd .ssh
+#1552933351
+xx
+#1552933356
+cd
+#1552933360
+xx
+#1552933362
+cl
+#1552933364
+xx
+#1552933428
+vi .bashrc
+#1552933561
+xx /bin/*
+#1552933616
+cl
+#1552933646
+test
+#1552933649
+jobs
+#1552933653
+ps
+#1552933918
+vi .bashrc
+#1552933967
+cl
+#1552933984
+which c
+#1552934043
+xx
+#1552934062
+ls "\.*"
+#1552934085
+ls .*
+#1552934120
+ls . \.*
+#1552934140
+less /etc/profile
+#1552934172
+whereis cc
+#1552934232
+env
+#1552934331
+echo $PATH
+#1552934533
+cl
+#1552934601
+xx
+#1552934665
+set
+#1552934702
+cl
+#1552934714
+echo $PS1
+#1552934830
+t=$PS1
+#1552934836
+echo PS1
+#1552934842
+echo $PS1
+#1552935010
+PS1=[\u@\h \W]\$
+#1552935019
+xx
+#1552935176
+cd ipc144j/
+#1552935178
+xx
+#1552935188
+ls -i
+#1552935196
+ls -il
+#1552935205
+cd ..
+#1552935211
+cd uli101j/week10
+#1552935232
+vi hello_world
+#1552935348
+ls -l
+#1552935368
+chmod 700
+#1552935374
+chmod 700 hello_world 
+#1552935378
+hello_world 
+#1552935392
+vi hello_world 
+#1552935433
+hello_world 
+#1552935472
+vi hello_world 
+#1552930826
+cd uli101j/
+#1552930829
+ls -l
+#1552930838
+mkdir week10
+#1552930841
+cd week10
+#1552930860
+cd ..
+#1552930862
+ls -l
+#1552930870
+cd week9/week9review/
+#1552930876
+vi w9review
+#1552931646
+tree
+#1552931658
+vi new_inventory 
+#1552932133
+sh
+#1552932151
+shell
+#1552932155
+bash
+#1552937883
+~uli101/a3
+#1552937912
+xx
+#1552937915
+cl
+#1552937921
+exit
+#1552965316
+xx
+#1552965350
+~uli101/a3
+#1553041683
+tree
+#1553104588
+cd uli101j/week10/
+#1553104592
+xx
+#1553104597
+hello_world 
+#1553104605
+cd ../week9
+#1553104657
+tree ..
+#1553104663
+xx
+#1553104669
+cd data_files/
+#1553104671
+ls -l
+#1553104684
+cat -vet phones
+#1553104697
+cl
+#1553104710
+head phones 
+#1553104749
+egrep "^[ADA].*" phones
+#1553104767
+egrep "^[A].*" phones
+#1553104812
+egrep "^(AB|FT).*" phones
+#1553104822
+egrep "^(AB|F).*" phones
+#1553104832
+egrep "^(AB|FI).*" phones
+#1553104880
+egrep "^(AB|FI).*5$" phones
+#1553104888
+egrep "^(AB|FI).*(5)$" phones
+#1553104975
+egrep "^(AB|FI).*[5]$" phones
+#1553104987
+cat -vet phones 
+#1553105015
+egrep "^(AB|
+#1553105827
+cat -vet cars
+#1553105942
+cat people.csv
+#1553105986
+cat hustory
+#1553105990
+cd 
+#1553105993
+xx
+#1553106001
+cat .sh_history 
+#1553106009
+cat myHistory 
+#1553106079
+tree
+#1553106122
+xx
+#1553106136
+cat bash.history
+#1553106142
+cat .bash.history
+#1553106149
+cat .bash_history
+#1553106236
+ln -s his .bash_history
+#1553106243
+xx
+#1553106258
+ln his .bash_history
+#1553106275
+ln .bash_history his
+#1553106283
+cat his
+#1553106294
+xx
+#1553106309
+rm his
+#1553106317
+ln -s .bash_history his
+#1553106320
+his
+#1553106326
+cat his
+#1553106330
+xx
+#1553106449
+man ok
+#1553106493
+man awk
+#1553106565
+cd uli101j/week9
+#1553106568
+xx
+#1553106571
+cd data_files/
+#1553106581
+head people.csv
+#1553106660
+egrep ".*\([0-9][0-9][0-9]\) " people.csv 
+#1553106682
+egrep "\([0-9][0-9][0-9]\) " people.csv 
+#1553107304
+man sed
+#1553107497
+xx
+#1553107503
+cat inventory 
+#1553107545
+egrep ".*[600-650]$"
+#1553107558
+egrep ".*[600-650]$" inventory
+#1553107568
+egrep "[600-650]$" inventory
+#1553107589
+cat -vet inventory 
+#1553107601
+egrep "[600-650]$" inventory
+#1553107624
+egrep ",[600-650]$" inventory
+#1553107641
+egrep ".*,[600-650]$" inventory
+#1553107647
+egrep ".*[600-650]$" inventory
+#1553107677
+grep "[600-650]$" inventory 
+#1553108174
+vi file.txt
+#1553108219
+cat file.txt 
+#1553108229
+rm file.txt
+#1553108231
+xx
+#1553108404
+cat temp
+#1553108413
+file *.*
+#1553108779
+exit
+#1553175192
+cd ipc144j/
+#1553175194
+xx
+#1553175199
+cd a2
+#1553175202
+xx
+#1553175208
+cd ms2
+#1553175210
+xx
+#1553175293
+cd ../ms4
+#1553175294
+xx
+#1553175299
+exit
+#1553212567
+xx
+#1553212578
+cat abc
+#1553212585
+rm abc
+#1553212594
+cat his
+#1553212597
+cl
+#1553212599
+xx
+#1553212632
+cd .ssh
+#1553212636
+xx
+#1553212642
+cd ..
+#1553212645
+xx
+#1553212666
+cat .bash_history 
+#1553212669
+cl
+#1553214461
+ls .bash_*
+#1553214472
+cat bash_p
+#1553214483
+cat bash_profile
+#1553214491
+cat .bash_profile
+#1553214520
+cat .bash_logout
+#1553217968
+xx
+#1553217995
+cat his
+#1553218030
+xx
+#1553218158
+cd ipc144j/
+#1553218160
+ls
+#1553218163
+tree
+#1553218186
+cd w5/diff.txt
+#1553218194
+cat w5/diff.txt
+#1553218199
+cd w5
+#1553218200
+xx
+#1553218210
+cd lab
+#1553218220
+cat diff.txt 
+#1553218243
+cd ..uli
+#1553218266
+cd ~uli101/
+#1553218270
+tree -C
+#1553218277
+xx
+#1553218283
+ls
+#1553218297
+exit
+#1553218311
+tree -C
+#1553218370
+cat his
+#1553226266
+~uli101/a3
+#1553231169
+exit
+#1553238072
+xx
+#1553238130
+cat batch_recho .sh+history
+#1553238176
+ls .ssh
+#1553238185
+x
+#1553238186
+xx
+#1553238196
+joba
+#1553238203
+xx
+#1553238234
+cat .uli101.log.2019a 
+#1553238283
+cat cs-history
+#1553238288
+xx
+#1553238306
+vi bash_rc
+#1553238384
+quota
+#1553238399
+tree -C
+#1553238424
+cd 
+#1553238426
+ls
+#1553238448
+vi .bash_rc
+#1553238492
+vi .bash_profile 
+#1553238530
+ls .*
+#1553238547
+ls ~ .bash_
+#1553238569
+~ .bash_
+#1553238573
+xx
+#1553238614
+cat .forward
+#1553238633
+cat his
+#1553238644
+exit
+#1553270512
+xx
+#1553270646
+cd ipc144j/a2/
+#1553270648
+xx
+#1553270652
+cd ms2
+#1553270655
+ls-l
+#1553270657
+xx
+#1553270772
+gcc -Wall -o ms2 contacts.c contactHelpers.c a2ms2.c
+#1553270775
+xx
+#1553270875
+~md-nour.hossain/submit 144SJJ_a2ms2
+#1553270892
+cat error.txt
+#1553271439
+pwd
+#1553272149
+~md-nour.hossain/submit 144SJJ_a2ms2
+#1553273579
+exit
+#1553274033
+~md-nour.hossain/submit 144SJJ_a2ms4Sortcd
+#1553274311
+cd ipc144j/a2
+#1553274318
+cd ms2
+#1553274321
+xx
+#1553274595
+cat error.txt
+#1553274607
+cat output.txt 
+#1553274626
+xx
+#1553274658
+cat 144_a2ms2_output.txt 
+#1553286404
+xx
+#1553286422
+vi .vimrc
+#1553286521
+vi myHistory 
+#1553286565
+vi .vimrc
+#1553287920
+cl
+#1553287926
+man test
+#1553283524
+cat .vimrc
+#1553283529
+xx
+#1553283535
+cd .vim
+#1553283546
+cat .vimrc
+#1553283552
+ls
+#1553283556
+cd 
+#1553283568
+vi .vimrc
+#1553283693
+cd uli101j/
+#1553283699
+cd week10
+#1553283700
+lss
+#1553283703
+ls
+#1553283715
+vi hello_world 
+#1553284235
+xx
+#1553284244
+use_vars 
+#1553284761
+xx
+#1553284785
+chmod 700 use_read
+#1553284791
+use_read
+#1553284868
+xx
+#1553285107
+chmod 700 use_args
+#1553285117
+use_args 12 34 56
+#1553285287
+use_args 12 34 56 34 34
+#1553285323
+xx
+#1553285389
+use_args 12 34 56 34 34
+#1553285667
+xx
+#1553285677
+chmod 700 use_ifs
+#1553285683
+use_ifs
+#1553285735
+use_ifs joe
+#1553285740
+xx
+#1553285837
+use_ifs james
+#1553285844
+use_ifs joe
+#1553286055
+man test
+#1553286221
+chmod 700 use_elif 
+#1553286234
+xx
+#1553286245
+use_elif 5
+#1553286382
+xx
+#1553286966
+chmod 700 use_for
+#1553286968
+xx
+#1553286979
+chmod 700 use loop
+#1553286987
+chmod 700 use_loop
+#1553286998
+mv use_loop use_for
+#1553287002
+use_for
+#1553287022
+xx
+#1553287132
+chmod 700 use_loop
+#1553287138
+use_loop
+#1553287152
+use_loop 12 34 56 78 as
+#1553287478
+chmod 700 use_tests
+#1553287484
+use_tests 
+#1553287656
+chmod 700 use_tests
+#1553287664
+use_tests 
+#1553287771
+cl
+#1553287774
+use_tests 
+#1553283740
+cd uli101j/week10
+#1553283742
+xx
+#1553283779
+hello_world 
+#1553283865
+vi use_vars
+#1553283958
+ls
+#1553283972
+chmod 700 use_vars 
+#1553283974
+xx
+#1553283979
+use_vars
+#1553284005
+vi use_vars 
+#1553284635
+vi use_read
+#1553284980
+vi use_args 
+#1553285461
+vi use_ifs
+#1553285886
+vi use_elif
+#1553286750
+vi use_loop
+#1553287182
+vi man test
+#1553287196
+ls
+#1553287202
+xx
+#1553287210
+man test
+#1553287288
+vi use_tests
+#1553290225
+xx
+#1553290310
+cat his
+#1553290312
+xx
+#1553290336
+cd uli101j/week10/
+#1553290363
+ln -s bash_programming
+#1553290374
+xx
+#1553290387
+rm bash_programming 
+#1553290390
+xx
+#1553290408
+..
+#1553290435
+ln -s week10 bash_programming
+#1553290440
+xx
+#1553290463
+mv bash_programming/ ~
+#1553290502
+mv bash_programming/ /home/jgiroux1
+#1553290544
+mv -r bash_programming/ /home/jgiroux1
+#1553290567
+rm bash_programming/
+#1553290569
+xx
+#1553290581
+rm w8
+#1553290583
+xx
+#1553290591
+cd 
+#1553290593
+xx
+#1553290665
+ln -s ~/uli101j/week10 programming
+#1553290667
+xx
+#1553290674
+cd programming/
+#1553290676
+xx
+#1553290681
+cd
+#1553290722
+ln -s ipc144j/a2/ms4/ final
+#1553290724
+xx
+#1553290754
+exit
+#1553299729
+mkdir scripts
+#1553299762
+cat ~uli101/2019a/phonebook
+#1553299821
+grep -i "cheryl" ~uli101/2019a/phonebook
+#1553299852
+cd scripts/
+#1553299875
+vi phone
+#1553299963
+chmod 700 phone
+#1553299966
+phone
+#1553299968
+ls
+#1553299973
+./phone
+#1553300008
+PATH=$PATH:~/scripts
+#1553300013
+phone
+#1553300068
+vi phone
+#1553300104
+phone
+#1553300153
+vi phone
+#1553300196
+phone james
+#1553300291
+cp phone phone2
+#1553300302
+phone2 cheryl
+#1553300314
+phone2 joel
+#1553300330
+vi phone2
+#1553300398
+phone 2 james
+#1553300410
+phone2
+#1553300435
+cp phone2 phone3
+#1553300439
+vi phone3
+#1553300470
+phone3
+#1553300495
+vi phone3
+#1553300642
+phone3 joel
+#1553300647
+phone3 cheryl
+#1553300653
+phone3
+#1553300664
+vi phone3
+#1553300695
+phone3
+#1553300730
+cp phone3 phone4
+#1553300735
+vi phone4
+#1553300760
+phone4 xyz
+#1553300797
+vi phone4
+#1553301327
+phone4 xyz
+#1553301334
+phone4 james
+#1553301337
+phone 4
+#1553301343
+phone4
+#1553301464
+xx
+#1553301484
+vi ../.bashrc
+#1553301599
+.. .bashrc
+#1553301612
+cd scripts/
+#1553301634
+bash
+#1553301663
+vi add
+#1553302102
+add 1 2 3 4
+#1553302115
+chmod 700 add
+#1553302117
+add 1 2 3 4
+#1553302133
+vi add
+#1553302197
+add 1 2 3 4
+#1553302210
+vi add
+#1553302339
+add 1 2 3 4
+#1553302351
+vi add
+#1553302830
+add 1 2 3 4
+#1553302843
+vi add
+#1553302983
+add 1 2 3 4
+#1553302990
+vi add
+#1553303116
+add 1 2 3 4
+#1553303121
+vi add
+#1553303276
+add 1 2 3 4
+#1553303282
+vi add
+#1553303725
+add 1 2 3 4
+#1553303776
+vi add
+#1553303802
+cp add add_new
+#1553303809
+vi add_new 
+#1553303908
+add_new 12345
+#1553303924
+vi add_new 
+#1553303978
+add_new 12345
+#1553303994
+add 1 2 3 4 5
+#1553304007
+add_new 1 2 3 4 5
+#1553304023
+vi add_new
+#1553304060
+add_new 1 2 3 4 5
+#1553304075
+vi add_new
+#1553304123
+add_new 1 2 3 4 5
+#1553304135
+add 1 2 3 4 5 
+#1553304167
+xx
+#1553304183
+touch add
+#1553304185
+ls
+#1553304192
+xx
+#1553304235
+vi add
+#1553304270
+mv add add_old
+#1553304273
+vi add
+#1553304439
+chmod 70 add
+#1553304441
+add
+#1553304449
+xx
+#1553304458
+chmod 700 add
+#1553304460
+add
+#1553304466
+add 12 45 32
+#1553304477
+vi add
+#1553304553
+add 12 34 12 2
+#1553304558
+vi add
+#1553304686
+add 20 50
+#1553304724
+cl
+#1553304728
+cat add
+#1553304735
+cat add_old
+#1553304741
+cat_new
+#1553304747
+xx
+#1553304754
+cl
+#1553304757
+cat add
+#1553304762
+cat add_old
+#1553304769
+cat add_new
+#1553304825
+cp add add2
+#1553304828
+vi add2
+#1553305352
+add2 4 -3 twelve nine
+#1553305362
+vi add2
+#1553305463
+add2 4 -3 twelve nine
+#1553305497
+vi add2
+#1553305620
+add2 4 -3 twelve nine
+#1553305629
+vi add2
+#1553305880
+add 4 -3 twelve nine
+#1553305896
+vi add2
+#1553306042
+add 4 -3 twelve nine
+#1553306055
+add 20 20 nine five
+#1553306061
+vi add2
+#1553306308
+add 20 20 nine five
+#1553306313
+vi add2
+#1553306454
+add 20 20 nine five
+#1553306459
+vi add2
+#1553306539
+add 20 20 nine five
+#1553306543
+vi add2
+#1553306639
+add 20 20 nine five
+#1553306646
+vi add2
+#1553306671
+add 20 20 nine five
+#1553306675
+vi add2
+#1553306836
+add 20 20 nine five
+#1553306861
+vi add2
+#1553307106
+add 20 20 nine five
+#1553307108
+vi add2
+#1553307217
+add 20 20 nine five
+#1553307224
+vi add2
+#1553307291
+add 20 20 nine five
+#1553307293
+vi add2
+#1553307395
+add 20 20 nine five
+#1553307405
+vi add2
+#1553307466
+add 20 20 nine five
+#1553307473
+vi add2
+#1553307512
+add 20 20 nine five
+#1553307527
+cl
+#1553307538
+vi add2
+#1553307561
+add2 20 20 nine five
+#1553307568
+vi add2
+#1553307609
+add2 20 20 nine five
+#1553307622
+vi add2
+#1553307647
+add2 20 20 nine five
+#1553307657
+vi add2
+#1553307703
+add2 20 20 nine five
+#1553307710
+vi add2
+#1553307764
+add2 20 20 nine five
+#1553307777
+vi add2
+#1553307824
+add2 20 20 nine five
+#1553307830
+vi add2
+#1553307922
+add2 20 20 nine five
+#1553307950
+vi add2
+#1553308134
+add2 4 -3 12 9
+#1553308145
+vi add2
+#1553308271
+add2 4 -3 12 9
+#1553308277
+vi add2
+#1553308298
+add2 4 -3 12 9
+#1553308417
+vi add2
+#1553308464
+add2 20 20 nine five
+#1553308483
+vi add2
+#1553308709
+add2 20 20 nine five
+#1553308730
+vi add2
+#1553308764
+add2 20 20 nine five
+#1553308781
+vi add2
+#1553308846
+add2 20 20 nine five
+#1553308863
+vi add2
+#1553309065
+add2 20 20 nine five
+#1553309072
+vi add2
+#1553309120
+add2 20 20 nine five
+#1553309127
+vi add2
+#1553309238
+add2 20 20 nine five
+#1553309244
+vi add2
+#1553309279
+add2 20 20 nine five
+#1553309288
+vi add2
+#1553309351
+add2 20 20 nine five
+#1553309359
+vi add2
+#1553309396
+add2 20 20 nine five
+#1553309404
+vi add2
+#1553309451
+add2 20 20 nine five
+#1553309459
+vi add2
+#1553309750
+add2 20 20 nine five
+#1553309755
+vi add2
+#1553309784
+add2 20 20 nine five
+#1553309789
+vi add2
+#1553309919
+add2 20 20 nine five
+#1553309926
+vi add2
+#1553310002
+add2 20 20 nine five
+#1553310012
+vi add2
+#1553310088
+add2 20 20 nine five
+#1553310094
+vi add2
+#1553310248
+add2 20 20 nine five
+#1553310254
+vi add2
+#1553310296
+add2 20 20 nine five
+#1553310319
+add2 12 hans 31 fish
+#1553310334
+vi add2
+#1553310444
+add2 12 hans 31 fish
+#1553310460
+add2 12 -34 tree axe
+#1553310466
+vi add2
+#1553310548
+add2 12 -34 tree axe
+#1553310553
+vi add2
+#1553310566
+add2 12 -34 tree axe
+#1553311314
+add2 12 -34 100 2000
+#1553311319
+vi add2
+#1553311486
+add2 12 -34 100 2000
+#1553311503
+add2 1 2 tree four
+#1553311512
+vi add2
+#1553311548
+add2 1 2 tree four
+#1553311555
+vi add2
+#1553301748
+ls -l
+#1553301753
+cd prog
+#1553301756
+ls
+#1553301766
+cat use_for
+#1553301780
+cl
+#1553301782
+cat use_for
+#1553301883
+cl
+#1553301885
+xx
+#1553301894
+cat use_loop 
+#1553302417
+man test
+#1553302581
+ls -l
+#1553302601
+cat use_loop
+#1553302878
+cat use_for
+#1553308320
+man test
+#1553309584
+ls
+#1553309592
+cat use_ifs
+#1553309606
+xx
+#1553309639
+man test
+#1553309808
+cat use_elif 
+#1553310350
+man test
+#1553293669
+xx
+#1553293675
+cd final
+#1553293676
+xx
+#1553293693
+cd programming
+#1553293726
+rm programming
+#1553293732
+cd 
+#1553293760
+mv programming prog
+#1553293762
+xx
+#1553293786
+cat .vimrc
+#1553293798
+cat .viminfo
+#1553293815
+cl
+#1553293818
+xx
+#1553293824
+cd .ssh
+#1553293826
+xx
+#1553293836
+head authorized_keys 
+#1553293857
+head known_hosts 
+#1553293862
+cd ..
+#1553293865
+xx
+#1553293876
+cd .ssh
+#1553293878
+xx
+#1553293881
+cd ..
+#1553293884
+cd .vim
+#1553293886
+xx
+#1553293894
+cat .netrwhist 
+#1553293913
+cat .bashrc
+#1553293918
+cd ..
+#1553293920
+cat .bashrc
+#1553293973
+vi .bashrc
+#1553294127
+xx
+#1553294143
+vi .bash_profile 
+#1553294208
+tree -C uli101j/
+#1553294240
+~uli101/a3
+#1553365986
+matrix
+#1553365992
+exit
+#1553365840
+xx
+#1553365849
+vi .bashrc
+#1553365972
+bash
+#1553365995
+matrix
+#1553366038
+ls ~ '.bash*'
+#1553366044
+ls ~ .bash*
+#1553366058
+ls ~ \.bash*
+#1553366061
+xx
+#1553366263
+more his
+#1553366306
+cl
+#1553366311
+xx
+#1553366321
+vi .vimrc
+#1553366720
+. .vimrc
+#1553366726
+.vimrc
+#1553366742
+cd final
+#1553366746
+xx
+#1553366868
+exit
+#1553366927
+xxx
+#1553358684
+touch oldfiles
+#1553358691
+vi oldfiles 
+#1553361632
+2
+#1553361684
+vi oldfiles2
+#1553364080
+cd ..
+#1553364085
+prog
+#1553364089
+cd prog
+#1553364090
+ls
+#1553364096
+cd ..
+#1553364114
+cd uli101j/week9
+#1553364115
+xx
+#1553364121
+cd data_files/
+#1553364123
+xx
+#1553364128
+cat cars
+#1553366541
+$echo $HOME
+#1553366549
+cd ~
+#1553366552
+xx
+#1553366561
+ls *vim
+#1553366882
+vi .bashrc
+#1553366921
+xxx
+#1553366925
+bash
+#1553366933
+xxx
+#1553366944
+vi .bashrc
+#1553366975
+bash
+#1553366979
+xxx
+#1553366984
+exit
+#1553353430
+xx
+#1553353434
+cd scripts/
+#1553353437
+cl
+#1553353438
+xx
+#1553353450
+del .add*
+#1553353466
+rm .add2*
+#1553353469
+xx
+#1553353479
+add2 12 34 james
+#1553354646
+cat add2
+#1553354672
+add2 12 34 james
+#1553354775
+man test
+#1553354818
+add2 12 34 james
+#1553354900
+man test
+#1553355134
+add2 12 34 james
+#1553356467
+add2 12 15 James Bob
+#1553356655
+vi greptest
+#1553356713
+grep "[a-zA-Z]" greptest
+#1553356733
+grep "[a-zA-Z] " greptest
+#1553356754
+grep "[a-zA-Z+-]" greptest
+#1553357208
+add2
+#1553357219
+add2 12 34 12 james
+#1553357373
+add2 12 33 44 55 66 77 100
+#1553357385
+xx
+#1553357401
+rm add2_old
+#1553357403
+xx
+#1553357408
+add2 12 33 44 55 66 77 100
+#1553357413
+add2 12 33 44 55 66 77 100 james
+#1553357502
+add2 4 -3 12 9'
+m
+q
+#1553357620
+add2 12 33 44 55 66 77 100 james
+#1553357639
+add -3 23
+#1553357899
+add2 12 33 44 55 66 77 100 james
+#1553357971
+man test
+#1553358035
+add2 12 33 44 55 66 77 100 james
+#1553358123
+add2 12 33 44 55 66 77 100
+#1553358178
+add2 4 -3 twelve nine
+#1553358240
+chmod 700 add2
+#1553358267
+echo $PATH
+#1553358311
+PATH=$PATH:~/scripts
+#1553358325
+echo $PATH
+#1553358366
+add2 4 -3 twelve nine
+#1553358605
+bash
+#1553366995
+vi .bashrc
+#1553367023
+vi ../.bashrc
+#1553367033
+bash
+#1553367045
+cd ..
+#1553367047
+exit
+#1553362037
+oldfiles2 .
+#1553362039
+xx
+#1553362047
+oldfiles2 .
+#1553362049
+xx
+#1553362084
+rm *
+#1553362086
+xx
+#1553362119
+touch file1 file2.old file3old file4.old
+#1553362120
+xx
+#1553362142
+oldfiles2 .
+#1553362144
+ls
+#1553362147
+xx
+#1553363203
+man tr
+#1553353279
+cd scripts/
+#1553353281
+xx
+#1553353305
+vi add2
+#1553353677
+add2 2 -3 tree james
+#1553353682
+vi add2
+#1553356863
+mv add2 add2_old
+#1553356880
+cp add2_old add2
+#1553356885
+vi add2
+#1553359021
+oldfiles
+#1553359032
+chmod 700 oldfiles
+#1553359034
+oldfiles
+#1553359125
+cl
+#1553359318
+oldfiles 
+#1553359327
+oldfiles  .
+#1553359339
+oldfiles .
+#1553359566
+mkdir test
+#1553359569
+cd test
+#1553359575
+oldfiles .
+#1553359608
+touch file f1.old file.txt james.old james
+#1553359611
+oldfiles .
+#1553359745
+touch dickhead.old
+#1553359748
+xx
+#1553359989
+oldfiles .
+#1553359997
+xx
+#1553360086
+cd ..
+#1553360091
+rm -r test
+#1553360103
+mkdir testdir
+#1553360106
+cd testdir/
+#1553360147
+touch file1 file2.old file3old file4.old
+#1553360188
+xxxx
+#1553360191
+xx
+#1553360210
+cd ..
+#1553360219
+oldfiles .
+#1553360225
+xx
+#1553360263
+mv add.old add
+#1553360274
+mv add2.old add2
+#1553360289
+mv add_new.old add_new
+#1553360305
+mv add_old.old add_old
+#1553360308
+xx
+#1553360320
+rm greptest.old 
+#1553360322
+xx
+#1553360346
+mv oldfiles.old oldfiles
+#1553360361
+mv phone.old phone
+#1553360375
+mv phone2.old phone2
+#1553360383
+mv phone3.old phone3
+#1553360389
+mv phone4.old phone4
+#1553360391
+xx
+#1553360406
+mv testdir.old testdir
+#1553360409
+cd testdir/
+#1553360412
+xxx
+#1553360413
+xx
+#1553360509
+oldfiles .
+#1553360615
+xx
+#1553360629
+rm *
+#1553360631
+ls
+#1553360688
+touch file1 file2.old file3old file4.old
+#1553360706
+oldfiles .
+#1553360754
+xx
+#1553360893
+oldfiles .
+#1553360993
+ls
+#1553361065
+xx
+#1553361212
+oldfiles .
+#1553361656
+cd ..
+#1553361673
+cp oldfiles oldfiles2
+#1553361974
+cd testdir/file
+#1553361980
+cd testdir
+#1553361983
+xx
+#1553361997
+oldfile2 .
+#1553362004
+bash
+#1553353144
+cd scripts/
+#1553353146
+ls
+#1553353148
+xx
+#1553353292
+cd ../prog
+#1553353295
+xx
+#1553354329
+cat hello_world 
+#1553354345
+cat use_args 
+#1553354440
+cat use_elif 
+#1553355794
+man test
+#1553358531
+cd
+#1553358537
+vi .bashrc
+#1553358600
+bash
+#1553359129
+cl 
+#1553359142
+echo use_loo
+#1553359145
+echo use_loop
+#1553359160
+cat use_loop
+#1553359175
+cd prog
+#1553359181
+cat use_f
+#1553359184
+cat use_for 
+#1553360793
+man test
+#1553362430
+man sed
+#1553369674
+cd scripts/
+#1553369676
+xx
+#1553369689
+cat oldfiles2
+#1553369700
+cat add2
+#1553369725
+add2 34 65 76
+#1553369735
+add2 23
+#1553369743
+add2 23 222 James
+#1553383522
+cd scripts/
+#1553383524
+xx
+#1553383531
+cd testdir/
+#1553383532
+xx
+#1553383549
+vi oldfiles2
+#1553383573
+cd..
+#1553383579
+vi oldfiles2
+#1553383603
+vi add2
+#1553383670
+add2 20 40 40
+#1553383675
+add2 20 40 40 james
+#1553385108
+xxx
+#1553385111
+exit
+#1553446910
+cd scripts
+#1553446913
+xx
+#1553446922
+chmod 700 add
+#1553446928
+add 12 34 5t 67 
+#1553447138
+add 4 -3 12 9
+#1553447220
+xx
+#1553447226
+cp add add2
+#1553447527
+chmod 700 add2
+#1553447541
+add2 4 -3 twelve nine
+#1553447587
+add2 4 -3 12 9
+#1553447593
+xx
+#1553447637
+add2 4 -3 12 9
+#1553447756
+add2 4 -3 twelve nine
+#1553448038
+add2 10 10
+#1553448044
+add2 34 34
+#1553448105
+cd ../scripts_old/
+#1553448108
+cat add2
+#1553448186
+cd ../scripts
+#1553448190
+add2 12 34
+#1553448431
+add2 12 45 james
+#1553449337
+add2 10 40 20 30 
+#1553446537
+cd scripts/
+#1553446539
+xx
+#1553446547
+cd..
+#1553446569
+mv scripts scripts_old
+#1553446572
+xx
+#1553446597
+rm prog
+#1553446603
+rm final
+#1553446605
+xx
+#1553446669
+mkdir scripts
+#1553446687
+cd scripts
+#1553446689
+xx
+#1553446716
+$PATH
+#1553446768
+vi add
+#1553447239
+vi add2
+#1553447926
+add2 10 10 10 10 10
+#1553447932
+vi add2
+#1553449398
+exit
+#1553446508
+~uli101/a3
+#1553449411
+xx
+#1553449449
+vi .vimrc
+#1553449478
+cd a3_testdir/
+#1553449480
+x
+#1553449481
+xx
+#1553449485
+a
+#1553449487
+cda
+#1553449489
+cd a
+#1553449491
+xx
+#1553449497
+cd
+#1553449507
+tree a3_testdir/
+#1553449514
+cd 
+#1553449517
+xx
+#1553449544
+rm -r a3_testdir/
+#1553449586
+mv scripts scripts_second_try
+#1553449597
+mv scripts_old scripts
+#1553449598
+xx
+#1553449623
+mv scripts_2nd
+#1553449647
+mv scripts_secont_try scripts_2
+#1553449650
+xx
+#1553449671
+mv scripts_second_try scripts_2
+#1553449673
+xx
+#1553449678
+exit
+#1553449930
+cd scripts
+#1553449932
+xx
+#1553449983
+cat add add2 add_old add_new > add.txt
+#1553449989
+cat add.txt
+#1553450054
+cat add.txtcl
+#1553450056
+cl
+#1553450057
+xx
+#1553450097
+cat oldfiles oldfiles2 > oldfiles.txt
+#1553450123
+cap phone phone2 phone3 phone4 > phone.txt
+#1553450134
+cat phone phone2 phone3 phone4 > phone.txt
+#1553450136
+xx
+#1553450147
+rm testdir
+#1553450153
+rm -r testdir
+#1553450156
+xx
+#1553450276
+cd ..
+#1553450278
+xx
+#1553450286
+cd scripts_2
+#1553450288
+xx
+#1553450303
+cat add add2 > add2.txt
+#1553450365
+exit
+#1553460087
+x
+#1553459380
+xx
+#1553459392
+ls sc*
+#1553459413
+vi .bashrc
+#1553460086
+bash
+#1553460095
+vi .bashrc
+#1553460139
+bash
+#1553460143
+x
+#1553460149
+vi .bashrc
+#1553461047
+md test
+#1553461055
+. .bashrc
+#1553461107
+md test
+#1553461114
+. .bashrc
+#1553460820
+xx
+#1553460841
+vi .bash_profile 
+#1553460877
+vi .bashrc
+#1553460934
+bash
+#1553461139
+xx
+#1553461165
+tree -C ipc144j/
+#1553460938
+add2 12 34
+#1553460964
+more his
+#1553460981
+test md
+#1553460984
+md
+#1553460990
+vi .bashrc
+#1553461042
+bash
+#1553461119
+md test
+#1553461124
+vi .bashrc
+#1553461136
+bash
+#1553461059
+md test
+#1553461065
+vi .bashrc
+#1553461102
+bash
+#1553538032
+cd scripts
+#1553538034
+xx
+#1553538039
+cat add.txt 
+#1553538055
+cl
+#1553538060
+cat add2
+#1553538065
+xx
+#1553538079
+cat add_new
+#1553538094
+cat add_old
+#1553538127
+xx
+#1553538128
+cl
+#1553538129
+xx
+#1553535234
+cd scripts
+#1553535236
+xx
+#1553535247
+add2 23 37
+#1553535251
+add2 23 37 james
+#1553535263
+add2 23 37 66 99 109827
+#1553535268
+add2 23 37 66 99 109826
+#1553535275
+vi add2
+#1553535328
+vi phone4
+#1553535726
+cl
+#1553535863
+xx
+#1553537350
+cd 
+#1553537471
+cd
+#1553537475
+cd uli
+#1553537520
+cd uli101j/week10
+#1553537522
+xx
+#1553537537
+use_shift 1 2 3 4 5 6 7 
+#1553537858
+use_math
+#1553537866
+chmod 700 use_math
+#1553537869
+use_math
+#1553538310
+cl
+#1553538883
+cd ~scripts
+#1553538889
+cd ~/scripts
+#1553538891
+xx
+#1553539434
+cd ~/uli101j/week10
+#1553539436
+xx
+#1553539444
+use_dollardollar
+#1553539487
+chmod 700 use_dollardollar
+#1553539490
+use_dollardollar
+#1553539644
+use_exit 6
+#1553534997
+cd final
+#1553534999
+xx
+#1553535011
+cd ipc144j/a2/ms4
+#1553535013
+xx
+#1553535050
+gcc -Wall -o ms4 contactHelpers.c contacts.c a2ms4.c
+#1553535053
+xx
+#1553535058
+ms4
+#1553535520
+xx
+#1553535716
+~md-nour.hossain/submit 144SJJ_a2ms4_sort
+#1553535722
+xx
+#1553535724
+cl
+#1553535844
+tree -C
+#1553535847
+cd
+#1553535887
+cd 
+#1553535888
+xx
+#1553535899
+tree -C uli101j/
+#1553535916
+cd uli101j/week10
+#1553535917
+ls
+#1553535940
+xx
+#1553535942
+cl
+#1553535943
+xx
+#1553536348
+cat use_ifs 
+#1553536388
+cat *.* > use.txt
+#1553536971
+cat use_for
+#1553536985
+mv use_for use_foreach
+#1553536987
+xx
+#1553537004
+cat use.txt
+#1553537010
+rm *.txt
+#1553537012
+xx
+#1553537014
+cl
+#1553537015
+xx
+#1553537041
+vi use_foreach 
+#1553537072
+cl
+#1553537082
+xx
+#1553537090
+cat use_loop 
+#1553537100
+cat use_tests 
+#1553537126
+use_tests
+#1553537159
+cl
+#1553537161
+xx
+#1553537263
+mv use_tests use_tests_imp
+#1553537264
+xx
+#1553537359
+vi use_shift
+#1553537449
+chmod 700 use_shift
+#1553537457
+use_shift 12 james 45
+#1553537468
+vi use_shift
+#1553537504
+use_shift 12 james 45
+#1553537528
+vi use_shift
+#1553537744
+cl
+#1553537746
+xx
+#1553537772
+vi use_math
+#1553537939
+vi use_math 
+#1553538401
+umask 077
+#1553538617
+echo $?
+#1553538708
+cat useuse
+#1553538710
+echo $?
+#1553538740
+cl
+#1553538742
+xx
+#1553538791
+grep hello *
+#1553538799
+echo $?
+#1553538897
+vi use_exit
+#1553539061
+chmod 700 use_exit
+#1553539089
+use_exit 5
+#1553539099
+vi use_exit
+#1553539247
+cl
+#1553539248
+xx
+#1553539305
+ps
+#1553539314
+echo $$
+#1553539396
+vi use_dollardollar
+#1553539611
+xx
+#1553539613
+cl
+#1553539615
+xx
+#1553539626
+vi use_exit
+#1553539701
+cd ..
+#1553539711
+mkdir week11
+#1553539715
+cd week11
+#1553539762
+tree
+#1553539766
+tree ~
+#1553539789
+cp ../week9/data_files/cars .
+#1553539791
+ls
+#1553539794
+cat cars
+#1553539800
+cl
+#1553539806
+cat cars
+#1553539995
+sed '2,4 p' cars
+#1553540039
+sed -n '2,4 p' cars
+#1553540115
+sed -n '5,8 p' cars
+#1553540161
+sed -n '5 p' cars
+#1553540194
+sed '2,5 d' cars
+#1553540264
+sed '6 q' cars
+#1553540295
+cl
+#1553540296
+xx
+#1553540299
+cl
+#1553540304
+cat cars
+#1553540391
+sed -n '/[ae]/p'
+#1553540397
+sed -n '/[ae]/p' cars
+#1553540440
+sed -n '/^[a-g]/ p' cars
+#1553540474
+sed -n '/[1-9]$/ p'
+#1553540481
+sed -n '/[1-9]$/ p' cars
+#1553540578
+sed 's/[aeiou]/X/' cars
+#1553540605
+sed 's/[aeiou]/X/g' cars
+#1553540689
+cl
+#1553540720
+sed 's/^./\t/' cars
+#1553540779
+sed 's/^./\t&/' cars
+#1553540868
+sed 's/./\u&/' cars
+#1553540875
+sed 's/./\u&/g' cars
+#1553540928
+exit
+#1553545894
+xx
+#1553545903
+cat his
+#1553545921
+exit
+#1553606575
+cd final
+#1553606577
+xx
+#1553606582
+cd ipc
+#1553606588
+cd ipc144j/w2
+#1553606590
+xx
+#1553606598
+cd ..
+#1553606601
+cd a2
+#1553606924
+cd 
+#1553606928
+xx
+#1553606955
+chmod 744 *.*
+#1553606970
+cd ipc144j/
+#1553606972
+xx
+#1553606983
+exxit
+#1553607843
+xx
+#1553607903
+tar -cvf ipc ipc144.j
+#1553608036
+xx
+#1553608109
+ipc
+#1553608115
+cat ipc
+#1553608137
+mv ipc ipc.tar
+#1553608152
+chmod 700 ipc.tar
+#1553608153
+xx
+#1553612736
+cd ipc144/a2
+#1553612747
+cd ipc144j/
+#1553612748
+xx
+#1553612752
+cd q1
+#1553612756
+cd a1
+#1553612758
+xx
+#1553612774
+cd ms3_ms4/
+#1553612775
+xx
+#1553613002
+cat error.txt 
+#1553639398
+cd ipc144j/
+#1553639401
+tree
+#1553639408
+cd a2
+#1553639410
+xx
+#1553639416
+cd ms4
+#1553639492
+xx
+#1553639496
+rm ms4
+#1553639536
+gcc -Wall -o ms4 contactHelpers.c contacts.c a2ms4.c
+#1553639538
+xx
+#1553639607
+~md-nour.hossain/submit 144SJJ_a2ms4Sort
+#1553639633
+xx
+#1553639644
+exit
+#1553639721
+cd ipc144j/a2
+#1553639728
+tree -C ../..
+#1553639755
+xx
+#1553639759
+cd ms4
+#1553639762
+xx
+#1553639776
+cd
+#1553639778
+xx
+#1553639838
+vi .bashrc
+#1553640775
+exit
+#1553699664
+xx
+#1553699780
+exit
+#1553719455
+cd ipc144j/a2/
+#1553719457
+xx
+#1553719460
+cd ms4
+#1553719463
+xx
+#1553719511
+gcc -Wall -o contacts.c contactHelpers.c a2ms4.c
+#1553719529
+gcc -Wall -o ms4 contacts.c contactHelpers.c a2ms4.c
+#1553719535
+xx
+#1553719545
+cd ..
+#1553719549
+xx
+#1553719552
+cd a2
+#1553719554
+xx
+#1553719557
+cd ms4
+#1553719559
+ls
+#1553719578
+xx
+#1553719602
+chmod 600 contacts.c
+#1553719604
+xx
+#1553719611
+gcc -Wall -o ms4 contacts.c contactHelpers.c a2ms4.c
+#1553719614
+xx
+#1553719651
+~md-nour.hossain/submit 144SJJ_a2ms4Sort
+#1553720911
+xx
+#1553720918
+exit
+#1553780228
+cat test
+#1553780233
+man test
+#1553780309
+cd scripts
+#1553780312
+xx
+#1553780319
+vi add2
+#1553782156
+cat add
+#1553782228
+vim add2
+#1553787680
+cd ipc144j/
+#1553787691
+cd a2/ms4
+#1553787694
+xx
+#1553787754
+~md-nour.hossain/submit 144SJJ_a2ms4Sort
+#1553787762
+cl
+#1553787766
+exit
+#1553797407
+cd ipc144j/a2/ms4/
+#1553797409
+xx
+#1553797449
+~md-nour.hossain/submit 144SJJ_a2ms4Sort
+#1553797460
+~md-nour.hossain/submit 144SJJ_a2ms4
+#1553797491
+~md-nour.hossain/submit 144SJJ_a2ms4Sort
+#1553797591
+xx
+#1553797610
+ms4
+#1553797648
+cl
+#1553797669
+echo $PS1
+#1553797679
+echo $PATH
+#1553797696
+exit
+#1553801902
+xx
+#1553801928
+cd ipc144j/a2/ms4/
+#1553801930
+xx
+#1553801992
+~md-nour.hossain/submit 144SJJ_a2ms4Sort
+#1553802013
+xit
+#1553802019
+exit
+#1553802324
+cd scripts
+#1553802327
+xx
+#1553802335
+cat add.txt 
+#1553802353
+vi test
+#1553802418
+chmod 700 test
+#1553802420
+test
+#1553802425
+xx
+#1553802431
+test
+#1553802437
+vim test
+#1553802480
+test
+#1553802485
+vim test
+#1553802515
+test
+#1553802522
+vim test
+#1553802551
+test
+#1553802563
+vim test
+#1553802606
+test
+#1553802612
+./test
+#1553802625
+vim test
+#1553803045
+./test
+#1553803057
+vim test
+#1553803174
+./test
+#1553803192
+vim test
+#1553803223
+./test
+#1553803235
+vim test
+#1553803258
+./test
+#1553803276
+vim test
+#1553803317
+./test
+#1553803328
+vim test
+#1553803359
+./test
+#1553803376
+vim test
+#1553803399
+x
+#1553803400
+xx
+#1553803413
+mv test james
+#1553803415
+xx
+#1553803433
+vim test_pass
+#1553803596
+xx
+#1553803618
+cat jamess
+#1553803621
+cat james
+#1553803631
+xx
+#1553803652
+chmod 700 test_pass 
+#1553803662
+test_pass tom
+#1553803673
+test_pass James
+#1553803680
+vim test_pass
+#1553803863
+test_pass tom nick James
+#1553803873
+vim test_pass
+#1553803924
+test_pass tom nick James
+#1553803935
+test_pass James
+#1553803941
+vim test_pass
+#1553804038
+test_pass James
+#1553804046
+vim test_pass
+#1553804066
+test_pass James
+#1553804078
+test_pass tom jones jim James
+#1553804161
+vim test_pass
+#1553804194
+exit
+#1553873743
+cd ipc144j/
+#1553873745
+xx
+#1553873747
+cd a2
+#1553873749
+xx
+#1553873752
+cd ms4
+#1553873754
+xx
+#1553873760
+rm ms4
+#1553873762
+xx
+#1553873858
+gcc -Wall -o ms4 contacts.c contactHelpers.c a2ms4.c
+#1553873860
+xx
+#1553873891
+~md-nour.hossain/submit 144SJJ_a2ms4Sort
+#1553873944
+~md-nour.hossain/submit 144SJJ_a2ms4soort
+#1553873949
+~md-nour.hossain/submit 144SJJ_a2ms4sort
+#1553873966
+xx
+#1553874012
+cat output-from-eclipse.txt 
+#1553874048
+~md-nour.hossain/submit 144SJJ_a2ms4
+#1553874234
+~md-nour.hossain/submit 144SJJ_a2ms4Sort
+#1553874856
+xx
+#1553874891
+diff output.txt 144_a2ms4Sort_output.txt 
+#1553875269
+xx
+#1553875278
+rm ms4
+#1553875280
+xx
+#1553875292
+cat contactHelpers.c
+#1553875308
+~md-nour.hossain/submit 144SJJ_a2ms4Sort
+#1553876363
+cl
+#1553887645
+cd scripts
+#1553887646
+xx
+#1553889704
+cd 
+#1553889706
+x
+#1553889708
+xx
+#1553889715
+cat his
+#1553889800
+cp -r ~john.samuel/useful_files/review_exercises/week11review .
+#1553889802
+xx
+#1553889820
+mv week11review uli101j/week11
+#1553889828
+cd uli101j/week11/
+#1553889830
+xx
+#1553889872
+cd week11review/
+#1553889874
+xx
+#1553889929
+exit
+#1553887680
+cd uli101j/wee10
+#1553887685
+cd uli101j/week10
+#1553887687
+xx
+#1553887737
+cat use_loop 
+#1553887748
+cl
+#1553887749
+xx
+#1553887855
+cat use_dollardollar 
+#1553887862
+cl
+#1553887864
+xx
+#1553888452
+cd ..
+#1553888453
+tree
+#1553888499
+cp week9/data_files/comma_data week10
+#1553888503
+cd week10
+#1553888504
+xx
+#1553888512
+cat comma_data 
+#1553888900
+awk {print "First name is  " $1} comma_data 
+#1553888916
+awk -F, {print "First name is  " $1} comma_data 
+#1553888934
+awk -F, '{print "First name is  " $1}' comma_data 
+#1553889649
+cl
+#1553889652
+tree ..
+#1553887633
+cd uli101j/week11
+#1553887635
+xx
+#1553887759
+cat cars
+#1553887761
+cl
+#1553887763
+cat cars
+#1553888781
+awk '{print "A " $1 " costs" $5}' cars
+#1553888791
+awk '{print "A " $1 " costs " $5}' cars
+#1554052360
+cd uli101j/week11
+#1554052361
+ls
+#1554052365
+cd week11review/
+#1554052367
+xx
+#1554052423
+cat new_inventory 
+#1554052429
+cl
+#1554052431
+cat new_inventory 
+#1554052510
+sed -n '3,6 p' new_inventory
+#1554052587
+sed '/Compote/q' new_inventory
+#1554052660
+sed '2,4 d' new_inventory
+#1554052725
+sed -n '4,6/[aeiou]/X/p' new_inventory
+#1554052772
+sed -n '4,6 s/[aeiou]/X/p' new_inventory
+#1554052806
+ sed -n '4,6 s/[aeiou]/X/pg' new_inventory
+#1554052926
+sed 's/[A-Z]/\l&/g' new_inventory
+#1554052956
+xx
+#1554052958
+cl
+#1554052961
+xx
+#1554052962
+cl
+#1554052970
+cat new_inventory 
+#1554053252
+xx
+#1554053261
+vi w11reviewanswers 
+#1554053416
+sed '/^[A-M]/ p' new_inventory
+#1554053499
+vi w11reviewanswers 
+#1554053563
+ sed '/[A-M]/ p' new_inventory
+#1554053576
+ sed -n '/[A-M]/ p' new_inventory
+#1554053681
+cl
+#1554053686
+cat cars2
+#1554053945
+awk -F\t '{print "The cost of a 19"$4,$2,$3 " with " $5 "000 kilometers is $" $6}'
+#1554053968
+awk -F\t '{print "The cost of a 19"$4,$2,$3 " with " $5 "000 kilometers is $" $6}' cars2
+#1554054078
+awk '{print "The cost of a 19"$4,$2,$3 " with " $5 "000 kilometers is $" $6}' cars2
+#1554054241
+awk '$5 < 50 {print "The cost of a 19"$4,$2,$3 " with " $5 "000 kilometers is $" $6}' cars2
+#1554054313
+awk '$5 < 50 && $6 < 10000 {print "The cost of a 19"$4,$2,$3 " with " $5 "000 kilometers is $" $6}' cars2
+#1554054474
+awk '$3 ~ /[d-k]/ $4 ~ /[13579]/' cars2
+#1554054508
+awk '$3 ~ /[d-k]/ && $4 ~ /[13579]/' cars2
+#1554054535
+cl
+#1554054541
+cat cars2
+#1554054620
+awk '$4 > 80 || $5 < 20' cars2
+#1554054953
+vi w11reviewanswers 
+#1554052392
+cd uli101j/week11/week11review/
+#1554052394
+xx
+#1554052408
+vi w11review
+#1554055395
+cd
+#1554055407
+$PS1
+#1554055414
+echo $PS1
+#1554055196
+cd uli101j/week11/week11review/
+#1554055212
+XX
+#1554055216
+xx
+#1554055229
+vi w11reviewanswers 
+#1554055242
+cat cars2
+#1554055372
+bash
+#1554128555
+cd uli101j/week11
+#1554128558
+xx
+#1554128566
+cd week11review/
+#1554128572
+vi w11review
+#1554140148
+x
+#1554140108
+vi .bashrc
+#1554140144
+bash
+#1554140152
+exit
+#1554140230
+x
+#1554140183
+which x
+#1554140195
+which exit
+#1554140208
+vi .bashrc
+#1554140228
+bash
+#1554140232
+x
+#1554139122
+xx
+#1554139176
+vim .bashrc
+#1554139218
+bash
+#1554139255
+cd uli101j/week10
+#1554139257
+xx
+#1554139605
+cd
+#1554139613
+cat .bashrc
+#1554139744
+cat .vimrc
+#1554139769
+vi .vimrc
+#1554139872
+cd scripts
+#1554139874
+xx
+#1554139885
+vi add2
+#1554140419
+xx
+#1554140422
+cl
+#1554140538
+xx
+#1554142272
+cd ..
+#1554142279
+cd uli101j/week12/
+#1554142281
+xx
+#1554142344
+chmod 700 use_range
+#1554142349
+use_range 
+#1554142718
+chmod 700 use_c_for
+#1554142725
+use_c_for
+#1554142945
+chmod 700 use_while
+#1554142950
+use_while
+#1554139301
+cd data
+#1554139305
+cd uli
+#1554139309
+cd uli101j/
+#1554139310
+xx
+#1554139316
+tree
+#1554139348
+mv week9/data_files .
+#1554139351
+xx
+#1554140426
+cl
+#1554140501
+cd week11
+#1554140503
+xx
+#1554140511
+cd week11review/
+#1554140513
+xx
+#1554141062
+cat cars 2
+#1554141073
+xx
+#1554141077
+cat cars 2
+#1554141081
+cat cars2
+#1554141433
+cat w11review
+#1554141652
+cl
+#1554141660
+vi w11review
+#1554142160
+cd ../..
+#1554142169
+mkdir week12
+#1554142173
+cd week12
+#1554142175
+x
+#1554142176
+xx
+#1554142211
+vi use_range
+#1554142630
+vi use_c_for
+#1554142810
+vi use_while
+#1554143155
+cd 
+#1554143237
+xx
+#1554143596
+alias
+#1554143721
+rm ipc.tar
+#1554143723
+xx
+#1554154714
+mkdir ulireview
+#1554154721
+cd ulireview/
+#1554154730
+cdd
+#1554154732
+cd
+#1554154734
+..
+#1554154738
+cd
+#1554154740
+xx
+#1554154748
+cat his
+#1554154885
+cp -r ~john.samuel/useful_files/review_exercises ./ulireview
+#1554154913
+cp -r ~john.samuel/useful_files/review_exercises/* /ulireview
+#1554154936
+cp -r ~john.samuel/useful_files/review_exercises /ulireview
+#1554154944
+xx
+#1554154959
+cp -r ~john.samuel/useful_files/review_exercises ulireview
+#1554154976
+cp -r ~john.samuel/useful_files/review_exercises/* ulireview
+#1554154997
+cp -r ~john.samuel/useful_files/review_exercises/week* ulireview
+#1554155036
+ls ~john.samuel/useful_files/review_exercises/
+#1554155067
+ls ~john.samuel/useful_files/review_exercises/week
+#1554155120
+cp -r ~john.samuel/useful_files/review_exercises/week11review ulireview
+#1554155129
+cp -r ~john.samuel/useful_files/review_exercises/week10review ulireview
+#1554155137
+cp -r ~john.samuel/useful_files/review_exercises/week9review ulireview
+#1554155146
+cp -r ~john.samuel/useful_files/review_exercises/week8review ulireview
+#1554155153
+cp -r ~john.samuel/useful_files/review_exercises/week7review ulireview
+#1554155161
+cp -r ~john.samuel/useful_files/review_exercises/week6review ulireview
+#1554155176
+cp -r ~john.samuel/useful_files/review_exercises/week5review ulireview
+#1554155183
+cp -r ~john.samuel/useful_files/review_exercises/week4review ulireview
+#1554155190
+cp -r ~john.samuel/useful_files/review_exercises/week3review ulireview
+#1554155196
+cp -r ~john.samuel/useful_files/review_exercises/week2review ulireview
+#1554155204
+cp -r ~john.samuel/useful_files/review_exercises/week1review ulireview
+#1554155210
+cd ulireview/
+#1554155212
+xx
+#1554155221
+cd review_exercises/
+#1554155224
+xx
+#1554155227
+..
+#1554155242
+rm review_exercises/
+#1554155249
+rm -r review_exercises/
+#1554155251
+x
+#1554220018
+xx
+#1554220037
+vi .vimrc
+#1554221641
+tree
+#1554221657
+xx
+#1554221673
+cat myHistory 
+#1554221682
+cd
+#1554221683
+xx
+#1554221994
+vi .bash_logout
+#1554222012
+cat bash_history
+#1554222019
+cat .bash_history
+#1554222049
+xx
+#1554222173
+cat .rhosts
+#1554222195
+cd ulireview/
+#1554222197
+xx
+#1554222246
+mv week11review/ week99review
+#1554222247
+xx
+#1554222287
+mv week9review wee8review
+#1554222298
+mv week9review
+#1554222303
+xx
+#1554222322
+mv wee8review week8review
+#1554222340
+mv week99review/ week9review
+#1554222342
+xx
+#1554222345
+cl
+#1554222347
+x
+#1554226439
+xx
+#1554226445
+cat his
+#1554226484
+xx
+#1554226497
+cd ulireview/
+#1554226498
+xx
+#1554226574
+x
+#1554255596
+cd ipc144j/
+#1554255597
+xx
+#1554255603
+tree -p
+#1554255641
+cd ms4
+#1554255649
+cd a2/ms4
+#1554255653
+cat diff.txt 
+#1554255745
+xx
+#1554255767
+diff 144_a2ms4Sort_output.txt output.txt 
+#1554255795
+diff output-from-eclipse.txt output.txt 
+#1554255830
+man diff
+#1554255915
+info diff
+#1554256164
+xx
+#1554256169
+cd 
+#1554256171
+xx
+#1554494057
+&
+#1554494113
+jobs
+#1554494255
+ps
+#1554494261
+jobs
+#1554494297
+xx
+#1554494302
+file myHistory 
+#1554494371
+ln -s
+#1554494386
+alias
+#1554494409
+man ls
+#1554492163
+cl
+#1554492314
+cd ipc144j/a2/
+#1554492315
+xx
+#1554492317
+cd ms4
+#1554492318
+xx
+#1554492428
+diff output.txt 144_a2ms4Sort_output.txt 
+#1554492487
+cat output.txt
+#1554492506
+cl
+#1554492509
+cd
+#1554867811
+x
+#1554867831
+vi .bashrc
+#1554868244
+xx
+#1554868259
+cat his
+#1554868311
+c;
+#1554868317
+cl
+#1554868319
+xx
+#1554868352
+cat .lesshst
+#1554868383
+cd scripts
+#1554868386
+xx
+#1554868401
+vi add2
+#1554868563
+add2 10 20 30 40
+#1554868575
+add 10 20 30 James
+#1554868585
+vi add2
+#1554868625
+add 10 20 30 James
+#1554868639
+add 2 10 10 10
+#1554868648
+vi add2
+#1554868691
+add 2 10 10 10
+#1554868698
+add 10 20 30 James
+#1554868708
+vi add2
+#1554868762
+xx
+#1554868770
+car add
+#1554868776
+cat add
+#1554868800
+cat ../
+#1554868802
+xx
+#1554868804
+x
+#1554868823
+xx
+#1554868870
+cd uli101j/
+#1554868872
+xx
+#1554868894
+scp data_files .
+#1554868954
+cd ..
+#1554868957
+treee
+#1554868960
+tree
+#1554868981
+c;
+#1554868987
+cd scripts
+#1554868992
+vi add2
+#1554869069
+add2 12 34 56 78 909
+#1554869076
+vi add2
+#1554869132
+add2 12 34 56 78 909
+#1554869139
+vi add2
+#1554869911
+add2 12 34 56 78 909
+#1554869918
+vi add2
+#1554869955
+add2 12 34 56 78 909
+#1554869995
+vi add2
+#1554870061
+add2 12 34 56 78 909
+#1554870066
+vi add2
+#1554870117
+add2 12 34 56 78 909
+#1554870120
+vi add2
+#1554870158
+add2 12 34 56 78 909
+#1554870165
+vi add2
+#1554870325
+add2 12 34 56 78 909
+#1554870330
+vi add2
+#1554870460
+add2 12 34 56 78 909
+#1554870472
+vi add2
+#1554870532
+add2 12 34 56 78 909
+#1554870538
+vi add2
+#1554871771
+add2 12 34 56 78 909
+#1554871926
+add jamws
+#1554871934
+vi add2
+#1554872052
+add jamws
+#1554872058
+add2 12 34 56 78 909
+#1554872064
+addd james
+#1554872070
+add2 james
+#1554872079
+add 12 34 james
+#1554872092
+vi add2
+#1554872166
+add 12 34 james
+#1554872180
+add2 12 23 hames
+#1555000981
+xx
+#1555000990
+cd ulireview/
+#1555000992
+x
+#1555000994
+xx
+#1555096423
+cd ulireview/
+#1555096434
+cd week4review/
+#1555096440
+vi w4reviewanswers 
+#1555096702
+cd ..
+#1555096704
+xx
+#1555096711
+cd week5review/
+#1555096780
+vi w5reviewanswers 
+#1555097819
+man grep
+#1555096025
+cd ulireview/
+#1555096027
+xx
+#1555096033
+cd week2review/
+#1555096035
+xx
+#1555096051
+vi w2review
+#1555096074
+cd..
+#1555096089
+cd week3review/
+#1555096098
+vi w3review
+#1555096282
+cd ..
+#1555096292
+cd week4review/
+#1555096301
+vi w4review
+#1555096730
+cd ../week5review/
+#1555096735
+vi w5review
+#1555210351
+x
+#1555210352
+xx
+#1555210416
+cd ipc144j/
+#1555210417
+xx
+#1555210436
+cd a2
+#1555210440
+xx
+#1555210443
+cd ms4
+#1555210445
+xx
+#1555210472
+cat 144_a2ms4Sort_tester.c 
+#1555210541
+xx
+#1555210551
+cat contactHelpers.
+#1555210554
+cat contactHelpers.c
+#1555210777
+cd ipc144j/a2/ws4
+#1555210781
+cd ipc144j/a2
+#1555210783
+xxx
+#1555210784
+xx
+#1555210788
+ms4
+#1555210790
+xx
+#1555210795
+cd ms4
+#1555210798
+xx
+#1555210829
+grep --color contactHelpers.c
+#1555210867
+man grep
+#1555210899
+grew --color * contactHelpers.c
+#1555210909
+grep --color * contactHelpers.c
+#1555210941
+grep --color '*' contactHelpers.c
+#1555210999
+grep --color -i '/[a-z][0-9]/' contactHelpers.c
+#1555211088
+grep --color -i \* contactHelpers.c
+#1555211140
+cat contactHelpers.c | grep --color * 
+#1555211154
+cat contactHelpers.c | grep --color * >
+#1555211165
+cat contactHelpers.c | grep --color * >&1
+#1555211267
+cd
+#1555263002
+cl
+#1555263004
+xx
+#1555263023
+cd uli101j
+#1555263024
+xx
+#1555263033
+cd data_files/
+#1555263034
+xxx
+#1555263036
+xx
+#1555263039
+cl
+#1555263043
+cat cars2
+#1555263075
+sed 's/^./\t&/' cars2
+#1555263294
+sed  's/[0-9][0-9]*/*** & ***/' cars2
+#1555267540
+xx
+#1555267542
+cd
+#1555267548
+cat his
+#1555267696
+xx
+#1555267705
+cd ulireview
+#1555267721
+ccd 
+#1555267722
+cd
+#1555267737
+chmod 777 ulireview
+#1555267739
+xx
+#1555267924
+chmod 755ulireview
+#1555267929
+chmod 755 ulireview
+#1555267931
+xx
+#1555268046
+cd ulireview/
+#1555268048
+xx
+#1555268112
+chmod 755 *
+#1555268118
+xx
+#1555268134
+chmod -r 755 *
+#1555268146
+xx
+#1555268158
+cd week2review/
+#1555268159
+xx
+#1555268180
+cd ..
+#1555268181
+xx
+#1555268195
+chmod -r 755 *
+#1555268206
+xx
+#1555268226
+chmod u+r *
+#1555268228
+xx
+#1555268239
+cd week2review/
+#1555268240
+xx
+#1555268266
+chmod 755 *
+#1555268271
+xx
+#1555268277
+cd ..
+#1555268280
+xx
+#1555268284
+cd week3review/
+#1555268288
+chmod 755 *
+#1555268293
+cd ..
+#1555268298
+cd week4
+#1555268301
+cd week4review/
+#1555268305
+chmod 755 *
+#1555268307
+xx
+#1555268312
+cd ..
+#1555268318
+cd week5review/
+#1555268321
+chmod 755 *
+#1555268325
+cd ..
+#1555268331
+cd week8review/
+#1555268333
+chmod 755 *
+#1555268336
+cd ..
+#1555268344
+cd week9review/
+#1555268347
+chmod 755 *
+#1555268352
+xx
+#1555268357
+cd
+#1555276625
+xx
+#1555276634
+cd ulireview/
+#1555276636
+x
+#1555276637
+xx
+#1555276669
+cd ../scripts
+#1555276671
+xx
+#1555276681
+add2 23 45 67 56 45 
+#1555276691
+cat add2
+#1555354044
+xx
+#1555354048
+cl
+#1555354050
+xx
+#1555354067
+cd uli101j/
+#1555354068
+xx
+#1555354454
+man tail
+#1555355849
+xx
+#1555355856
+cd data_files/
+#1555355888
+xx
+#1555355924
+sed 's/^./\t&/' cars2
+#1555356034
+alias
+#1555356752
+cut -f2 cars2
+#1555356811
+cut-d -f2 cars
+#1555356820
+cut -d -f2 cars
+#1555356842
+cut -k2 cars
+#1555356858
+cut -f2,3 cars2
+#1555356885
+cut -f2,3 -d" " cars2
+#1555356913
+cut -f2 -d" " cars2
+#1555356922
+cut -f2 cars2
+#1555356987
+cut -f2 cars2 | echo
+#1555357070
+cut -f3 cars2 | sort -n > out.txt
+#1555357081
+cat out.txt
+#1555357120
+cat crs2
+#1555357124
+cat cars2
+#1555357145
+cut -f1,2,3 cars2
+#1555357182
+cut -f1,2,3 cars
+#1555357228
+grep ford cars2
+#1555357345
+cut -f2 cars2 | grep ford 
+#1555357371
+cut -f3 cars2 | grep ford 
+#1555357378
+cut -f1 cars2 | grep ford 
+#1555357386
+cut -f2 cars2 | grep ford 
+#1555363763
+set
+#1555616350
+xx
+#1555616365
+cd uli101j
+#1555616367
+xx
+#1555616380
+week 9
+#1555616389
+cd week9
+#1555616391
+xx
+#1555616395
+cd week9review/
+#1555616397
+xx
+#1555616403
+vi w9review
+#1555616435
+man egrep
+#1555616525
+cd
+#1555616527
+xx
+#1555616538
+cd uli101j
+#1555616539
+xx
+#1555616545
+cd data_files/
+#1555616546
+xx
+#1555616552
+cat cars2
+#1555616567
+grep "ford" cars2
+#1555616607
+cat people.csv 
+#1555616646
+grep "[^S]" people.csv 
+#1555616660
+grep "[^S]*" people.csv 
+#1555616670
+grep "^[S]*" people.csv 
+#1555616707
+grep "[X}$" people.csv 
+#1555616720
+grep "[X]$" people.csv 
+#1555777320
+xx
+#1555777366
+tree
+#1556314720
+xx
+#1556314735
+cd scripts
+#1556314747
+xx
+#1556314759
+cat add.txt 
+#1556314782
+~/.bashrc
+#1556314787
+cd ..
+#1556314794
+xx
+#1556314806
+. ./bashrc
+#1556314817
+. .bashrc
+#1556314828
+xx
+#1556314836
+exit
+#1556324685
+xx\
+#1556324694
+xx
+#1556324724
+cd scripts
+#1556324727
+xx
+#1556324753
+cat add2
+#1556324778
+add2 12 10 43
+#1556324799
+add2 james
+#1556324826
+add 1 2 3 4 5 6 7 8 h
+#1556324846
+add2 1 2 3 4 5 6 h
+#1556324874
+xx
+#1556324897
+cat phone.txt 
+#1556324902
+phone
+#1556325203
+cd ..
+#1556325204
+xx
+#1556325220
+cd public_html
+#1556325221
+xx
+#1556325324
+exit
+#1556325482
+cd ipc144
+#1556325487
+cd ipc144j/
+#1556325490
+xx
+#1556325493
+cd a2
+#1556325495
+xx
+#1556325500
+cd ms4
+#1556325502
+xx
+#1556325539
+cat contactHelpers.c
+#1556325573
+xx
+#1556325577
+ms4
+#1557864218
+xx
+#1557864228
+vi .bashrc
+#1557864265
+vi .bash_profile 
+#1557864300
+xx
+#1557864305
+exit
+#1558033722
+cd 2
+#1558033725
+cd oop
+#1558033727
+cd w1
+#1558033728
+xx
+#1558033731
+cd in_lab/
+#1558033733
+xx
+#1558033797
+g++ tools.cpp graph.cpp sceneGraph.cpp -Wall -std=c++11 -o w1
+#1558033800
+xx
+#1558033802
+w1
+#1558033935
+~cornel.barna/submit 244SEE_w1_lab
+#1558034604
+g++ tools.cpp graph.cpp sceneGraph.cpp -Wall -std=c++11 -o w1
+#1558034610
+~cornel.barna/submit 244SEE_w1_lab
+#1558034619
+xx
+#1558034637
+~cornel.barna/submit 244SEE_w1_lab
+#1558034645
+xx
+#1558034672
+mv sceneGraph.cpp seneGraph.cpp
+#1558034673
+xx
+#1558034680
+~cornel.barna/submit 244SEE_w1_lab
+#1558034748
+cl
+#1558034750
+xx
+#1558034792
+cat errors.txt
+#1558120153
+xx
+#1558120159
+ls -lai
+#1558120161
+xx
+#1558120173
+cd 2
+#1558120176
+cd oop
+#1558120178
+cd w1
+#1558120180
+xx
+#1558120184
+cd at home
+#1558120190
+cd at_home
+#1558120191
+xx
+#1558120272
+cat reflect.txt
+#1558120492
+cl
+#1558129674
+cd 2/oop/w1/at_home
+#1558129676
+xx
+#1558129754
+g++ seneGraph.cpp tools.cpp graph.cpp -Wall -std=c++11 -o w1
+#1558129757
+xx
+#1558129789
+~cornel.barna/submit 244SEE_w1_home
+#1558129838
+exit
+#1558463397
+xx
+#1558463410
+scripts
+#1558463415
+cd scripts
+#1558463417
+xx
+#1558463433
+add 2 3 4 1
+#1558463453
+cal add.txt
+#1558463462
+cat add.txt
+#1558463471
+cd
+#1558463473
+xx
+#1558463477
+exit
+#1558466229
+xx
+#1558466231
+cd 2
+#1558466243
+cd oop/w2/in_lab
+#1558466244
+xx
+#1558466368
+g++ w2_in_lab.cpp Kingdom.cpp -Wall -std=c++11 -o w2
+#1558466371
+w2
+#1558466437
+~cornel.barna/submit 244SEE_w2_lab
+#1558466447
+exit
+#1558640160
+cd 2/oop/w2/in_lab
+#1558640161
+xx
+#1558640234
+~cornel.barna/submit 244SEE_w2_lab
+#1558642411
+cd ..
+#1558642416
+cd at_home
+#1558642417
+xx
+#1558642482
+g++ w2_at_home.cpp Kingdom.cpp -Wall -std=c++11 -o w2
+#1558642514
+~cornel.barna/submit 244SEE_w2_home
+#1558642602
+vi w2_at_home
+#1558642607
+xx
+#1558642613
+vi w2_at_home.cpp
+#1558642649
+cat diff.txt
+#1558642665
+g++ w2_at_home.cpp Kingdom.cpp -Wall -std=c++11 -o w2
+#1558642670
+~cornel.barna/submit 244SEE_w2_home
+#1558648104
+xx
+#1558648117
+cd 2/oop/w2/at_home
+#1558648118
+xx
+#1558648130
+cat diff.txt
+#1558648200
+cat output_home_prof
+#1558648205
+cat output_home_prof.txt
+#1558648347
+xx
+#1558648678
+~cornel.barna/submit 244SEE_w2_home
+#1558649042
+xx
+#1558649056
+rm diff.txt 
+#1558649063
+rm errors
+#1558649069
+rm errors.txt 
+#1558649078
+xx
+#1558650018
+exit
+#1558718069
+xx
+#1558721745
+cat myHistory
+#1558721766
+cat .bash_history 
+#1558981689
+xx
+#1558981713
+cd seneca
+#1558981715
+xx
+#1558981739
+cat .bash_history
+#1559247643
+cd 2/oop/w3/in_lab
+#1559247645
+xx
+#1559247683
+g++ w3_in_lab.cpp CRA_Account.cpp -Wall -std=c++11 -o w3
+#1559247685
+xx
+#1559247734
+~cornel.barna/submit 244SEE_w3_lab
+#1559247837
+vi CRA_Account.cpp
+#1559247868
+g++ w3_in_lab.cpp CRA_Account.cpp -Wall -std=c++11 -o w3
+#1559247871
+~cornel.barna/submit 244SEE_w3_lab
+#1559247900
+exit
+#1559327317
+cd 2/oop/w3/at_home
+#1559327318
+xx
+#1559327351
+g++ CRA_Account.cpp w3_at_home.cpp -Wall -std=c++11 -o ws
+#1559327353
+xx
+#1559327386
+~cornel.barna/submit 244SEE_w3_at_home
+#1559327402
+~cornel.barna/submit 244SEE_w3_home
+#1559327609
+vi CRA_Account.cpp
+#1559327650
+~cornel.barna/submit 244SEE_w3_home
+#1559510417
+cd 1/oop/w3/at_home
+#1559510441
+cd 2/oop/w3/at_home
+#1559510443
+xx
+#1559512453
+cat his
+#1559512470
+cd 2/oop/w3/at_home
+#1559512472
+xx
+#1559512488
+cat CRA_Account.cpp
+#1559512544
+cat CRA_Account.h
+#1559850331
+cd 2/oop/w4/in_lab
+#1559850332
+xx
+#1559850358
+~cornel.barna/submit 244SEE_in_lab
+#1559850375
+~cornel.barna/submit 244SEE_w4_lab
+#1559850398
+xx
+#1559850409
+exit
+#1560281864
+cd 2\oop\ws4\at_home
+#1560281879
+cxx
+#1560281880
+xx
+#1560281884
+cd 2
+#1560281885
+cd oop
+#1560281887
+cd ws4
+#1560281892
+cd w4
+#1560281897
+cd at_home
+#1560281898
+xx
+#1560281918
+~cornel.barna/submit 244_w4_home
+#1560281944
+~cornel.barna/submit 244SEE_w4_home
+#1560283008
+exit
+#1560458025
+cd 2
+#1560458027
+xx
+#1560458037
+cd oop/w5/in_lab
+#1560458039
+xx
+#1560458069
+~cornel.barna/submit 244SEE_w5_lab
+#1560886331
+cd 2/oop/w5/at_home
+#1560886332
+xx
+#1560886350
+~cornel.barna/submit 244SEE_at_home
+#1560886367
+~cornel.barna/submit 244SEE_w5_home
+#1560886524
+exit
+#1562260566
+xx
+#1562260585
+cd 2/oop
+#1562260589
+cd w6
+#1562260592
+cd in_lab
+#1562260594
+xx
+#1562260680
+~mohammad.shamas/submit 244SEE_w6_lab
+#1562260695
+cat errors.txt
+#1562260744
+~mohammad.shamas/submit 244SEE_w6_lab
+#1562459394
+cd 2/oop/w6
+#1562459396
+xx
+#1562459401
+cd at_home
+#1562459403
+xx
+#1562459447
+mohamed.shamas/submit 244SEE_w6_home
+#1562459460
+mohammed.shamas/submit 244SEE_w6_home
+#1562459481
+~mohammad.shamas/submit 244SEE_w6_home
+#1562459509
+xx
+#1562459564
+vi reflect.txt
+#1562459584
+~mohammad.shamas/submit 244SEE_w6_home
+#1562704652
+cd 2/oop/w6/at_home
+#1562704654
+xx
+#1562704661
+~mohammad.shamas/submit 244SEE_w6_home
+#1562704673
+cat errors.txt
+#1562704791
+~mohammad.shamas/submit 244SEE_w6_home
+#1562704847
+~mohammad.shamas/submit 200_ms1
+#1562704890
+xx
+#1562704894
+cd ..
+#1562704895
+xx
+#1562704898
+cd ..
+#1562704901
+xx
+#1562704904
+cd ms1
+#1562704906
+xx
+#1562704913
+~mohammad.shamas/submit 200_ms1
+#1562705133
+x
+#1562705134
+xx
+#1562705140
+~mohammad.shamas/submit 200_ms1
+#1562709613
+xx
+#1562709623
+cd 2/oop/ms1
+#1562709626
+xx
+#1562709655
+~mohammad.shamas/submit 244_ms1
+#1562864301
+cd 2/oop/w7/in_lab
+#1562864302
+xx
+#1562864316
+~mohammad.shamas/submit 244SEE_w7_lab
+#1563225125
+cd 2/oop/w7/at_home
+#1563225128
+xx
+#1563225164
+~mohammad.shamas/submit 244SEE_w7_home
+#1563382841
+cd 2/oop/MS2
+#1563382845
+cd 2/oop/ms2
+#1563382846
+xx
+#1563382867
+~mohammad.shamas/submit 244_ms2
+#1563383055
+cd 2/oop/ms2
+#1563383058
+~mohammad.shamas/submit 244_ms2
+#1563469267
+cd 2/oop/w8/in_lab
+#1563469278
+~mohammad.shamas/submit 244SEE_w8_lab
+#1563911133
+cd 2/oop/w8/in_lab
+#1563911136
+cd ..
+#1563911141
+cd at_home
+#1563911143
+xx
+#1563911149
+~mohammad.shamas/submit 244SEE_w8_home
+#1564014248
+cd 2/oop/w8/in_lab
+#1564014254
+cd ,,/,,
+#1564014265
+cd ..\..
+#1564014270
+cd ,,\,,
+#1564014277
+cd ../..
+#1564014287
+cd w9/in_lab
+#1564014289
+xx
+#1564014306
+~mohammad.shamas/submit 244SEE_w9_lab
+#1564014316
+cat errors.txt
+#1564014471
+~mohammad.shamas/submit 244SEE_w9_lab
+#1564014475
+cat errors.txt
+#1564066820
+cd 2/oop/w9/in_lab
+#1564066822
+xx
+#1564066827
+~mohammad.shamas/submit 244SEE_w9_lab
+#1564071775
+cd 2/oop/w9/in_lab
+#1564071778
+~mohammad.shamas/submit 244SEE_w9_lab
+#1564072051
+errors.txt
+#1564072057
+cat errors.txt
+#1564072156
+~mohammad.shamas/submit 244SEE_w9_lab
+#1564075509
+exit
+#1564085146
+cd 2/oop/ms3
+#1564085148
+xx
+#1564085165
+~mohammad.shamas/submit 244_ms3
+#1564085433
+xx
+#1564333443
+cd 2/oop/ms3
+#1564333446
+~mohammad.shamas/submit 244_ms3
+#1564501562
+cd 2/oop/w9/at_home
+#1564501564
+xx
+#1564501574
+~mohammad.shamas/submit 244SEE_w9_home
+#1564503285
+cd 2/oop/w9/at_home
+#1564503287
+cd ..
+#1564503292
+cd ms4
+#1564503293
+xx
+#1564503304
+~mohammad.shamas/submit 244_ms4
+#1564503391
+cat errors.txt
+#1564503666
+~mohammad.shamas/submit 244_ms4
+#1564503670
+cat errors.txt
+#1564503908
+~mohammad.shamas/submit 244_ms4
+#1564503911
+cat errors.txt
+#1564504278
+~mohammad.shamas/submit 244_ms4
+#1564504281
+cat errors.txt
+#1564504366
+~mohammad.shamas/submit 244_ms4
+#1564504368
+cat errors.txt
+#1564504422
+~mohammad.shamas/submit 244_ms4
+#1564504424
+cat errors.txt
+#1564504480
+~mohammad.shamas/submit 244_ms4
+#1564504482
+cat errors.txt
+#1564508947
+~mohammad.shamas/submit 244_ms4
+#1564508963
+cd 2/oop/w9/at_home
+#1564508965
+cd ../..
+#1564508970
+cd ms4
+#1564508974
+~mohammad.shamas/submit 244_ms4
+#1564514691
+xx
+#1564514696
+proj
+#1564769099
+cd 2/oop/w9/at_home
+#1564769102
+cd ../..
+#1564769105
+cd ms5
+#1564769106
+xx
+#1564769113
+~mohammad.shamas/submit 244_ms5
+#1564772009
+xx
+#1564772053
+~mohammad.shamas/submit 244_ms5
+#1564773017
+cd 2/oop/ms5
+#1564773021
+exit
+#1564839443
+cd 2/oop/ms5
+#1564839447
+~mohammad.shamas/submit 244_ms5
+#1564839579
+xx
+#1564839590
+vi ms5.cpp
+#1564840017
+xx
+#1564840028
+~mohammad.shamas/submit 244_ms5
+#1564842814
+cd ../ms5_
+#1564842817
+~mohammad.shamas/submit 244_ms5
+#1564843632
+cd ../ms5
+#1564843635
+xx
+#1564843651
+cat diff.txt
+#1564843655
+cl
+#1564843659
+xx
+#1564845158
+~mohammad.shamas/submit 244_ms5
+#1564846719
+rm *
+#1564846721
+xx
+#1564846751
+~mohammad.shamas/submit 244_ms5
+#1564946551
+cd 2/oop/ms5
+#1564946552
+xx
+#1564946559
+rm *
+#1564946561
+xx
+#1564946633
+~mohammad.shamas/submit 244_ms5
+#1564946756
+xx
+#1564946761
+~mohammad.shamas/submit 244_ms5
+#1564946915
+xx
+#1565023997
+cd 2/oop/ms5
+#1565024000
+~mohammad.shamas/submit 244_ms5
+#1565094897
+cd 2/oop/ms5
+#1565094898
+xx
+#1565094901
+rm *
+#1565094902
+xx
+#1565094976
+~mohammad.shamas/submit 244_ms5
+#1565107999
+cd 2/oop/ms5
+#1565108000
+xx
+#1565108004
+rm *
+#1565108011
+rm -r *
+#1565108013
+xx
+#1565108025
+rm -r .*
+#1565108041
+rmdir -r .DS_Store
+#1565108058
+rm .DS_Store
+#1565108079
+rmdir -r .vs
+#1565108086
+rmdir .vs
+#1565108121
+chmod 777
+#1565108125
+chmod 777 *
+#1565108138
+chmod 777 .DS_Store
+#1565108158
+cd .vs
+#1565108161
+xx
+#1565108253
+~mohammad.shamas/submit 244_ms5
+#1565111164
+cd 2/oop/ms5
+#1565111165
+xx
+#1565111168
+rm *
+#1565118388
+cd 2/oop/ms5
+#1565118392
+~mohammad.shamas/submit 244_ms5
+#1565118598
+exit
+#1567703823
+xx
+#1567703845
+mkdir 3
+#1567703847
+cd 3
+#1567703860
+mkdir oop345
+#1567703862
+xx
+#1567703866
+cd oop345
+#1567703887
+mkdir workshops
+#1567703903
+mkdir project
+#1567703905
+xx
+#1567703918
+cd ../..
+#1567703920
+cd 2
+#1567703921
+xx
+#1567703923
+cd oop
+#1567703925
+xx
+#1567703934
+cd w1
+#1567703935
+xx
+#1567703942
+cd ..
+#1568309781
+cd 3/oop345/workshops/w01
+#1568309784
+cd 3/oop345/workshops/
+#1568309786
+xx
+#1568309788
+cd w1
+#1568309792
+cd in_lab
+#1568309795
+xx
+#1568309855
+~nmmisener/submit 345NAA_w1_lab
+#1568310198
+xx
+#1568310200
+~nmmisener/submit 345NAA_w1_lab
+#1568310402
+c
+#1568310408
+~nmmisener/submit 345NAA_w1_lab
+#1568310563
+~nmmisener/submit 345NAA_w1_lacl
+#1568310564
+cl
+#1568310566
+~nmmisener/submit 345NAA_w1_lacl
+#1568312686
+~nmmisener/submit 345NAA_w1_lab
+#1568312707
+cl
+#1568312713
+xx
+#1568312745
+~nmmisener/submit 345NAA_w1_lab
+#1568312788
+~nmmisner/submit 345NAA_w1_lab
+#1568312816
+~nmmisener/submit 345NAA_w1_lab
+#1568313083
+cd 3/oop345/workshops/
+#1568313085
+cd w1
+#1568313086
+xx
+#1568313090
+cd in_lab
+#1568313091
+xx
+#1568313119
+~nmmisener/submit 345NAA_w1_lab
+#1568313214
+cd ~
+#1568313217
+tree
+#1568313236
+xx
+#1568313565
+cd 3/oop345/workshops/w1/in_lab
+#1568313567
+xx
+#1568313660
+gcc w1_lab.cpp -o w1
+#1568313665
+xx
+#1568313745
+g++ w1_lab.cpp -Wall -std=c++11 -o w1
+#1568313764
+g++ w1_lab.cpp -Wall -std=c++17 -o w1
+#1568313772
+g++ w1_lab.cpp -Wall -o w1
+#1568313798
+g++ w1_lab.cpp -Wall -std=c++11 -o w1
+#1568313899
+g++ w1_lab.cpp String.cpp process.cpp -Wall -std=c++11 -o w1
+#1568314549
+sudo apt-get install g++-5
+#1568314737
+xx
+#1568315029
+g++ w1_lab.cpp String.cpp process.cpp -Wall -std=c++11 -o w1
+#1568315064
+xx
+#1568315068
+.w1
+#1568315073
+. .w1
+#1568315075
+w1
+#1568315088
+w1 Welcome to C++!
+#1568319128
+xx
+#1568319136
+tree -c
+#1568319150
+man tree
+#1568319166
+tree -dC
+#1568319218
+cd 3/oop345/workshops/w1/in_lab
+#1568319220
+xx
+#1568319229
+w1 James is the best
+#1568319322
+~nmmisener/submit 345NAA_w1_lab
+#1568319394
+tree -dC
+#1568319404
+tree ~ -dC
+#1568325648
+cd 3/oop345/workshops/w1/in_lab/
+#1568325649
+xx
+#1568325661
+cat String.cpp
+#1568325674
+g++ w1_lab.cpp String.cpp process.cpp -Wall -std=c++11 -o w1
+#1568325681
+xx
+#1568325693
+w1 Welcome to C++!
+#1568326861
+pwd
+#1568326873
+cd ~
+#1568326874
+xx
+#1568326956
+man alias
+#1568327076
+vi .bashrc
+#1568327127
+. .bashrc
+#1568327132
+cd oop
+#1568327136
+oop
+#1568327139
+cd oop
+#1568327152
+xx
+#1568327218
+vi .bashrc
+#1568327240
+. .bashrc
+#1568327243
+oop
+#1568327254
+vi .bashrc
+#1568327275
+. .bashrc
+#1568327277
+oop
+#1568327291
+vi .bashrc
+#1568327307
+. .bashrc
+#1568327310
+oop
+#1568334863
+cd w1/in_lab/
+#1568334865
+xx
+#1568334867
+~nmmisener/submit 345NAA_w1_lab
+#1568384729
+oop
+#1568384736
+cd w1/in-lab
+#1568384743
+cd w1/in_lab
+#1568384744
+xx
+#1568384753
+w1 welcome to C++!
+#1568390981
+w1 welcome to C++
+#1568390986
+~nmmisener/submit 345NAA_w1_lab
+#1568735806
+oop
+#1568735809
+cd w1
+#1568735814
+cd at_home
+#1568735816
+xx
+#1568735894
+~nmmisener/submit 345NAA_w1_home
+#1568753482
+xx
+#1568753486
+oop
+#1568753501
+cd w1/at_home
+#1568753502
+xx
+#1568753536
+g++ w1_home.cpp String.cpp process.cpp -Wall -o w1
+#1568753581
+g++ w1_home.cpp String.cpp process.cpp -Wall -std=C11 -o w1
+#1568753664
+g++ w1_home.cpp String.cpp process.cpp -Wall -std=c++11 -o w1
+#1568753684
+xx
+#1568753686
+w1
+#1568753695
+w1 Welcome to C++!
+#1568753820
+g++ w1_home.cpp String.cpp process.cpp -Wall -std=c++11 -o w1
+#1568811603
+oop
+#1568811610
+cd w1/at_home
+#1568811611
+xx
+#1568811616
+g++ w1_home.cpp String.cpp process.cpp -Wall -std=c++11 -o w1
+#1568811620
+xx
+#1568811622
+w1
+#1568811631
+w1 Welcome to C++!
+#1568811882
+clear
+#1568811885
+w1 Welcome to C++!
+#1568811973
+g++ w1_home.cpp String.cpp process.cpp -Wall -std=c++11 -o w1
+#1568811980
+w1 Welcome to C++!
+#1568816381
+xx
+#1568816388
+cat reflect.txt
+#1568816429
+exit
+#1568942727
+
+#1568942742
+cd w2/at_home
+#1568942744
+xx
+#1568942747
+cd w2
+#1568942749
+xx
+#1568942753
+cd in_lab/
+#1568942755
+xx
+#1568942778
+~nmmisener/submit 345NAA_w2_lab
+#1568942788
+cat errors.txt
+#1568976546
+oop
+#1568976556
+cd w1/in_lab
+#1568976557
+xx
+#1568976563
+~nmmisener/submit 345NAA_w2_lab
+#1568976571
+xx
+#1568976598
+~nmmisener/submit 345NAA_w2_lab
+#1568976602
+xx
+#1568976610
+cd ../..
+#1568976619
+cd w2/in_lab
+#1568976621
+xx
+#1568976628
+~nmmisener/submit 345NAA_w2_lab
+#1568976641
+cat errors.txt
+#1568989037
+oop
+#1568989044
+cd w2/at_home
+#1568989050
+xx
+#1568989056
+cd w2/at_home
+#1568989061
+cd w2/in_lab
+#1568989063
+xx
+#1568989072
+~nmmisener/submit 345NAA_w2_lab
+#1568989085
+cat errors.txt
+#1568989312
+~nmmisener/submit 345NAA_w2_lab
+#1568989327
+CD ~
+#1568989335
+cd ~
+#1568989341
+vi .bashrc
+#1568989436
+. .bashrc
+#1568989448
+source .bashrc
+#1568989453
+oop
+#1568989459
+cd w2/in_lab
+#1568989462
+xx
+#1568989475
+~nmmisener/submit 345NAA_w2_lab
+#1568989655
+l
+#1568989657
+cl
+#1569162323
+oop
+#1569162331
+cd w2/at_home
+#1569162332
+xx
+#1569162345
+~nmmisener/submit 345NAA_w2_home
+#1569162360
+xx
+#1569162368
+~nmmisener/submit 345NAA_w2_home
+#1569162569
+exit
+#1569168109
+oop
+#1569168116
+cd w2/at_home
+#1569168117
+xx
+#1569168120
+~nmmisener/submit 345NAA_w2_home
+#1569176145
+oop
+#1569176155
+cd w2/at_home
+#1569176156
+xx
+#1569176159
+~nmmisener/submit 345NAA_w2_home
+#1569176170
+exit
+#1569519063
+oop
+#1569519077
+cd w3/in_lab
+#1569519078
+xx
+#1569519090
+~nmmisener/submit 345NAA_w3_lab
+#1569702884
+xx
+#1569702890
+cd public_html/
+#1569702891
+xx
+#1569885448
+oop
+#1569885456
+cd w3/at_home
+#1569885457
+xx
+#1569885463
+~nmmisener/submit 345NAA_w3_home
+#1569885472
+cat errors.txt
+#1569885589
+~nmmisener/submit 345NAA_w3_home
+#1570128429
+oop
+#1570128440
+cd w4/in_lab
+#1570128441
+xx
+#1570128453
+~nmmisener/submit 345NAA_w4_lab
+#1570128550
+exit
+#1570579264
+oop
+#1570579271
+cd w4/at_home
+#1570579272
+xx
+#1570579323
+g++ at_home.cpp ConfirmationSender.cpp Reservation.cpp Resaurant.cpp -std=c++11 -o w4
+#1570579408
+xx
+#1570579414
+g++ at_home.cpp ConfirmationSender.cpp Reservation.cpp Resaurant.cpp -std=c++11 -o w4
+#1570579432
+g++ at_home.cpp ConfirmationSender.cpp Reservation.cpp Restaurant.cpp -std=c++11 -o w4
+#1570579435
+xx
+#1570579436
+w4
+#1570579443
+w4 data.txt
+#1570583379
+~nmmisener/submit 345NAA_w4_home
+#1570583395
+cat errors.txt
+#1570583799
+~nmmisener/submit 345NAA_w4_home
+#1570733856
+oop
+#1570733880
+cd w5/in_lab
+#1570733882
+xx
+#1570733895
+cd w5/in_lab
+#1570733919
+~nmmisener/submit 345NAA_w5_home
+#1570733927
+~nmmisener/submit 345NAA_w5_lab
+#1570734441
+xx
+#1570734449
+cat Book.cpp
+#1570734464
+cat w5_lab.cpp
+#1570734488
+~nmmisener/submit 345NAA_w5_lab
+#1570734598
+exit
+#1571422797
+oop
+#1571422803
+cd w5/at_home
+#1571422812
+xx
+#1571422880
+g++ Book.cpp Movie.cpp SpelChecker.cpp -Wall -std=c++11 -o w5
+#1571422893
+g++ Book.cpp Movie.cpp SpellChecker.cpp -Wall -std=c++11 -o w5
+#1571438184
+~nmmisener/submit 345NAA_w5_home
+#1571438242
+vi w5_home.cpp
+#1571438275
+~nmmisener/submit 345NAA_w5_home
+#1581901310
+xx
+#1581901313
+cd1
+#1581901316
+xx
+#1581901326
+alias
+#1581901379
+xx
+#1581901381
+cd 1
+#1581901384
+xx
+#1581901395
+cd uli101j
+#1581901397
+xx
+#1581901682
+echo
+#1581901690
+echo james is tutoring
+#1581901698
+pwd
+#1581901731
+echo tab_data
+#1581901749
+cat tab_data
+#1581901803
+man touch
+#1581901899
+vi james.txt
+#1581902058
+q
+#1663003938
+ls -la
+#1663003941
+cd 4
+#1663003944
+cd oop244
+#1663003947
+ls -la
+#1663003953
+cd cpp_projects
+#1663003955
+ls -la
+#1663003958
+cd w1p1
+#1663003961
+ls -la
+#1663004014
+g++ w1p1.cpp -Wall -std=c++11 -o ws
+#1663004021
+ls -la
+#1663004027
+ws
+#1663007343
+ls -la
+#1663002262
+ls -la
+#1663002273
+md 4
+#1663002308
+mkdir 4
+#1663002311
+cd 4
+#1663002329
+mkdir cpp_projects
+#1663002336
+cd cpp_projects
+#1663002350
+mkdir w1p1
+#1663002354
+cd w1p1
+#1663016178
+cd 4
+#1663016181
+ls
+#1663016190
+cd cpp_prohects
+#1663016197
+cd cpp_projects
+#1663016201
+ls -la
+#1663016206
+cd w1p1
+#1663016208
+ls
+#1663020545
+cd 4/cpp_projects
+#1663020546
+ls
+#1663020549
+cd w1p1
+#1663020552
+ws

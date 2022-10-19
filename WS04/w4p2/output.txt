@@ -1,0 +1,34 @@
+Enter the following data:
+100<ENTER>
+10<ENTER>
+22<ENTER>
+16<ENTER>
+4<ENTER>
+John Doe<ENTER>
+Jane Doe<ENTER>
+Jack Doe<ENTER>
+Jill Doe<ENTER>
+-------------------
+Please enter number of passengers: 100
+Invalid tour bus!
+Please enter number of passengers: 10
+Invalid tour bus!
+Please enter number of passengers: 22
+Cannot start the tour, the bus is not fully boarded!
+Please enter number of passengers: 16
+Cannot start the tour, the bus is not fully boarded!
+Please enter number of passengers: 4
+Boarding 4 Passengers:
+1/4- Passenger Name: John Doe
+2/4- Passenger Name: Jane Doe
+3/4- Passenger Name: Jack Doe
+4/4- Passenger Name: Jill Doe
+Starting the tour....
+Passenger List:
+|Row | Passenger Name                           | Num |
++----+------------------------------------------+-----+
+|  1 | John Doe                                 | 100 |
+|  2 | Jane Doe                                 | 101 |
+|  3 | Jack Doe                                 | 102 |
+|  4 | Jill Doe                                 | 103 |
++----+------------------------------------------+-----+

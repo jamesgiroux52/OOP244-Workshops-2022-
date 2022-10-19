@@ -1,0 +1,23 @@
+/*
+ ============================================================================
+ Name        : reflect.txt
+ Author      : James Giroux - jgiroux1@myseneca.ca
+ Student #   : 129198164
+ Section     : NEE
+ Date        : September 22, 2022 - Workshop 2 - part 2
+ ============================================================================
+ */
+
+It has been a lot of work getting back into the swing of things with coding and C++. But I am really enjoying it.
+
+This week we were focusing on dynamic memory and how to allocate and free up that memory when we are done using it. We also learned about overloading functions. 
+For me this was just a refresher on those topics, but it was much needed. Dynamic memory is actually really cool. It helps keep our programs size down because 
+we are only allocating memory we need and nothing more. Overloading functions is also very useful because we can have many ways to, lets say, display data or 
+even read data like we did in this workshop. I am looking forward to the upcoming topics and challenges this course will bring me and am very glad I had less 
+issues with this weeks workshop than I did on WS01. I'm finding that the DIY portions of the week are a great learning tool because you have to just figure it out.
+
+Very sneaky with the sorting... I thought I was done and of course when I tried to submit it I realized that we had to sort by Postal Code if the populations were 
+the same as well. That will throw a few people for a loop im sure. I knew we had the bigger CSV file and was sure our code would have to read that at some point, 
+but yeah lol.
+
+Thank you, Dr. Khan for always getting back to me quickly with the questions I have. I'm glad you are my professor for 244.

@@ -1,0 +1,18 @@
+ ============================================================================
+ Name        : reflect.txt
+ Author      : James Giroux - jgiroux1@myseneca.ca
+ Student #   : 129198164
+ Section     : NEE
+ Date        : September 19, 2022 - Workshop 1 - Reflection
+ ============================================================================
+
+Not really sure where to start.
+
+In this lab, we mainly reviewed how to organize modules and read and write to text files or CSV files. 
+
+I have not really done any programming over the last three years. I was at Seneca for all three semesters in 2019. I also don't remember our workshop 1 
+being anywhere close to as difficult as this one was. I literally spent probably 30-35 hours on it.  I am glad that I got a very good refresher on c++ and 
+that I decided to take this course again. 
+
+I think that part of my issue was that I had forgotten how to manipulate file data within my program so I had to relearn all of those functions. With such a large 
+first lab, I just got overwhelmed. I'm very glad that this one is finished. I just kept getting problems and wasn't fully aware of how to implement the objects.

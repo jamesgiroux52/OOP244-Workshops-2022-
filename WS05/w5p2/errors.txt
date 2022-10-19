@@ -1,0 +1,41 @@
+main_prof.cpp: In function ‘void binaryTest(const sdds::Mark&)’:
+main_prof.cpp:131:29: error: ambiguous overload for ‘operator+’ (operand types are ‘const sdds::Mark’ and ‘int’)
+    cout << "C + 30: " << (C + 30) << endl;
+                             ^
+main_prof.cpp:131:29: note: candidates are:
+main_prof.cpp:131:29: note: operator+(int, int) <built-in>
+main_prof.cpp:131:29: note: operator+(double, int) <built-in>
+main_prof.cpp:132:30: error: ambiguous overload for ‘operator+’ (operand types are ‘const sdds::Mark’ and ‘int’)
+    cout << "C + -90: " << (C + -90) << endl;
+                              ^
+main_prof.cpp:132:30: note: candidates are:
+main_prof.cpp:132:30: note: operator+(int, int) <built-in>
+main_prof.cpp:132:30: note: operator+(double, int) <built-in>
+main_prof.cpp:133:30: error: ambiguous overload for ‘operator+’ (operand types are ‘const sdds::Mark’ and ‘int’)
+    cout << "C + 100: " << (C + 100) << endl;
+                              ^
+main_prof.cpp:133:30: note: candidates are:
+main_prof.cpp:133:30: note: operator+(int, int) <built-in>
+main_prof.cpp:133:30: note: operator+(double, int) <built-in>
+main_prof.cpp:134:28: error: ambiguous overload for ‘operator+’ (operand types are ‘const sdds::Mark’ and ‘const sdds::Mark’)
+    cout << "C + C: " << (C + C) << endl;
+                            ^
+main_prof.cpp:134:28: note: candidates are:
+main_prof.cpp:134:28: note: operator+(int, int) <built-in>
+main_prof.cpp:134:28: note: operator+(int, double) <built-in>
+main_prof.cpp:134:28: note: operator+(double, int) <built-in>
+main_prof.cpp:134:28: note: operator+(double, double) <built-in>
+main_prof.cpp:138:28: error: ambiguous overload for ‘operator+’ (operand types are ‘const sdds::Mark’ and ‘sdds::Mark’)
+    cout << "C + n: " << (C + n) << endl;
+                            ^
+main_prof.cpp:138:28: note: candidates are:
+main_prof.cpp:138:28: note: operator+(int, int) <built-in>
+main_prof.cpp:138:28: note: operator+(int, double) <built-in>
+main_prof.cpp:138:28: note: operator+(double, int) <built-in>
+main_prof.cpp:138:28: note: operator+(double, double) <built-in>
+main_prof.cpp:147:28: error: ambiguous overload for ‘operator+’ (operand types are ‘int’ and ‘const sdds::Mark’)
+    cout << "v + C: " << (v + C) << endl;
+                            ^
+main_prof.cpp:147:28: note: candidates are:
+main_prof.cpp:147:28: note: operator+(int, int) <built-in>
+main_prof.cpp:147:28: note: operator+(int, double) <built-in>

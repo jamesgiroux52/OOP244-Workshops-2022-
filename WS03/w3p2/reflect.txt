@@ -1,0 +1,19 @@
+/*
+ ============================================================================
+ Name        : reflect.txt
+ Author      : James Giroux - jgiroux1@myseneca.ca
+ Student #   : 129198164
+ Section     : NEE
+ Date        : September 27, 2022 - Workshop 3 - part 2
+ ============================================================================
+ */
+
+This week we learned about Classes and their structure and attributes such as private and public member functions.
+As well as overloading member functions we worked with output formatting and dynamic memory as well.
+
+I found that this week was a good refresher on classes, inheritance and output formatting. I'm finding that I am
+struggling with implementing the classes and how they work together, especially when member variables are private
+as opposed to public structs. It took me a while to wrap my head around how to implement the modules 
+NameTag and TagList. In the end, I think it looks pretty good, but I still have a global variable in each module 
+to keep track of a few things like the longest word and the TagList array. If you have some feedback for me it would
+be very much appreciated. 

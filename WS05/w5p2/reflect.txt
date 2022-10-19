@@ -1,0 +1,17 @@
+/*
+ ============================================================================
+ Name        : reflect.txt
+ Author      : James Giroux - jgiroux1@myseneca.ca
+ Student #   : 129198164
+ Section     : NEE
+ Date        : October 11, 2022 - Workshop 5 - part 2
+ ============================================================================
+ */
+
+This week we learned more about classes and their resources, as well as member operators and helper functions.
+
+This week was a good review and refresher on overloading operators. I needed this because it also helped me reinforce when to pass references or constants to a function. That was the only aspect of this workshop that gave me any issues. The last time I took this course, I had trouble grasping them, so it's great that I fully understand them now.
+
+I played around with the code after I had a working version, and learned even more about what you can do with operator overloads. It was mentioned in the workshop instructions that you could call the overloads inside the definitions of other overloads. At first I did not do this, but it makes sense. For example wiht !=, you can just call !operator==(mark). I found this very cool and love the flexibility that C++ offers.
+
+I can't think of anything else I would like to add. I am happy I chose to retake this class before taking OOP345. It is an excellent review of what I learned when I took it in the summer of 2019, and I am learning the concepts much better this time.
