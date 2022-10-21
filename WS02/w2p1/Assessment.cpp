@@ -81,6 +81,7 @@ namespace sdds {
 
 		// allocate memory		
 		a = new Assessment[numValues];
+        a = nullptr;
 
 		// get data
 		do {

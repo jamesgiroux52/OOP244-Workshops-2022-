@@ -12,6 +12,7 @@
  I have done all the coding by myself in this module
  ============================================================================
 */
+
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <iostream>
@@ -116,7 +117,7 @@ namespace sdds {
         return ostr;
     }
     // helper insertion overload - calls display
-    std::ostream& operator<<(std::ostream& ostr, const Basket& basket) {
+    ostream& operator<<(ostream& ostr, const Basket& basket) {
         basket.display(ostr);
         return ostr;
     }
