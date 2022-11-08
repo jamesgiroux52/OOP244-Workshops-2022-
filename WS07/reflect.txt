@@ -1,0 +1,11 @@
+/*************************************************************
+// File    reflect.txt
+// Version 1.1
+// Date    Tuesday November 8, 2022
+// Author  James Giroux - jgiroux1@myseneca.ca
+*************************************************************/
+
+This week we learned about inheritance. Inheritance is when we use a base class to create a derived class. The derived class has access to all the base class's protected and public methods and members. 
+I did milestone two before completing this workshop, and in doing so, the workshop was relatively easy. As you know, I am just taking this class as a refresher. This workshop only took me two hours to complete. Milestone two took about 4 hours, but I did both on Monday.
+Regarding milestone 2, I had some issues that required debugging and tweaking the code, but nothing too hard. In milestone one, I used a boolean variable to determine if the Menu object was in a valid state. I started that way with the Parking class, but it gave me some issues. Because the file path is dynamic, it is much easier to check if it is null to verify the object's validity.
+Everything is going well, and I'm enjoying the material we are learning. If I'm honest, it is moving too slowly for me, but I understand the pace for people that may be struggling.
