@@ -56,9 +56,11 @@ namespace sdds {
         istr >> m_year;
         istr.ignore(1000, '\n');
         cout << "License plate: ";
+        istr.ignore(1000, '\n');
         istr.getline(m_plate, '\n');
         cout << "Current location: ";
         istr.getline(m_location, '\n');
+        istr.ignore(1000, '\n');
         return istr;
     }
     std::ostream& operator<<(std::ostream& ostr, const VehicleBasic& V) {

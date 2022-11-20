@@ -1,0 +1,11 @@
+//************************************************************
+// File    Rectangle.h
+// Version 1.0
+// Date    November 12, 2022
+// Author  James Giroux - jgiroux1@myseneca.ca
+// Description:
+// Reflection ws8
+//************************************************************
+
+This week the workshop focused on virtual functions, abstract base classes and interfaces. I am getting to the point where everything makes sense, and I can complete the workshops quickly. The only issue I had was understanding how the interface can overload the insertion and extraction operators for all child classes because we call the draw and getSpecs virtual functions before they are defined. It does make sense, though, because all the other classes are children to Shape.
+Seeing what we can do with objects in C++ is incredible, and I can't wait for the next topic.
