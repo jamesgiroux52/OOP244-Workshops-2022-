@@ -1,0 +1,13 @@
+// --------------------------------------------------------
+// File    reflect.txt
+// Version 1.0
+// Date    November 19, 2022
+// Author  James Giroux - jgiroux1@myseneca.ca
+// Description:
+// Workshop 9 reflection - derrived classes with resources.
+// --------------------------------------------------------
+
+This week we learned how to work with derived classes that contain resources, i.e. dynamically allocated members. Of course, we used all of the material taught so far in this course, such as Classes, Inheritance, dynamic memory allocation, and working with files.
+I had to add "#include <fstream>" in the tester file; otherwise, I couldn't compile. Fstream has been added to the main file now on GitHub.
+After writing the code, the only issue I had was that I forgot to ensure that when my derived class was copied, it must also take care of the base class. So I ended up with just HTML tags in my output. That also helped me with Milestone 4 because the Car and Motorcycle classes have to inherit all the information of the Vehicle class.
+Even though I received an A the first time I took this class, I am happy I am re-learning the material before OOP345 in January. I would have been overwhelmed had I tried this semester.

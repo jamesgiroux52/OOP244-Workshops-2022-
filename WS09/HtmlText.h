@@ -22,6 +22,7 @@
 #include <iostream>
 #include "Text.h"
 
+// see implementation for comments
 namespace sdds {
     class HtmlText : public Text{
         char* m_title{};

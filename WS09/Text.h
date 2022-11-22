@@ -16,6 +16,8 @@
 // -----------------------------------------------------------
 *************************************************************/
 
+// see implementation for comments
+
 #ifndef SDDS_TEXT_H_
 #define SDDS_TEXT_H_
 
@@ -27,7 +29,6 @@ namespace sdds {
     protected:
         const char& operator[](int index) const;
     public:
-        const char* getContent() const;
         Text(const char* content = nullptr);
         Text(const Text& T);
         Text& operator=(const Text& T);

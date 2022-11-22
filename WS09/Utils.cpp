@@ -23,7 +23,8 @@
 //              cstring
 // -- Added stricmp() - compares two strings and ignores case
 //              returns 0 if strings are the same 1 if not
-// -- Added some of Fardad's utils functions for 
+// -- Added alcpy() Fardad's util function for memory handeling
+//              of dynamic strings
 // -----------------------------------------------------------
 *************************************************************/
 

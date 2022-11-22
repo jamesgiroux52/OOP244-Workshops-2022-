@@ -23,21 +23,26 @@
 using namespace std;
 
 namespace sdds {
+    // returns the character at index as long as it is within 
+    // the size of m_content
     const char& Text::operator[](int index) const {
-        return m_content[index];
+         return m_content[index];
     }
-    const char* Text::getContent() const {
-        return m_content;
-    }
+    // constructor overload - if no value is passed then it will
+    // create an empty string.
+    // this is good because then we know that our dynamic memebr
+    // will never be nullptr.
     Text::Text(const char* content){
         if (content)
             m_content = ut.alcpy(content);
         else
             m_content = ut.alcpy("");
     }
+    // copy constructor uses copy assignment overload
     Text::Text(const Text& T) {
         *this = T;
     }
+    // copy assignemt
     Text& Text::operator=(const Text& T) {
         if (this != &T) {
             delete[] m_content;
@@ -45,9 +50,11 @@ namespace sdds {
         }
         return *this;
     }
+    // // destructor - ensures no mem leak when obj goes out of scope
     Text::~Text() {
         delete[] m_content;
     }
+    // reads a text file into m_content
     std::istream& Text::read(std::istream& is) {
         unsigned len = getFileLength(is);
         char ch;
@@ -59,14 +66,16 @@ namespace sdds {
             else m_content[cnt] = ch;
             cnt++;
         }
-        m_content[cnt] = 0;
+        m_content[cnt] = 0; // null terminate
         if (cnt > 0) is.clear();
         return is;
     }
+    // display m_content
     std::ostream& Text::write(std::ostream& os) const {
         os << m_content;
         return os;
     }
+    // helper overloads for insertion and extraction
     std::istream& operator>>(std::istream& is, Text& T) {
         return T.read(is);
     }
@@ -74,6 +83,7 @@ namespace sdds {
         T.write(os);
         return os;
     }
+    // provided in WS to find number of bits in file
     unsigned getFileLength(std::istream& is) {
         unsigned len{};
         if (is) {
