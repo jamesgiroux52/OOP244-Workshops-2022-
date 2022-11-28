@@ -1,0 +1,13 @@
+/**********************************************
+ File    reflect.txt
+ Version 1.0
+ Date    November 19, 2022
+ Author  James Giroux - jgiroux1@myseneca.ca
+ Description:
+ Workshop 10 Reflection
+ *********************************************/
+
+This week our workshop focused on function and class templates. We were provided with the class template Collection and needed to implement a search template function. I finished this workshop the fastest out of all of them. I was hoping for more of a challenge, but I'll get that next semester, I'm sure.
+Templates are a confusing topic because it introduces an entirely new syntax on top of everything else we have learned. But having taken this class before, I was well prepared.
+The first time taking this class, templates were very confusing, but now I see how powerful they can be when writing C++ programs. It's super cool!
+In the interest of full disclosure, as outlined in the workshop and project instructions. I'm in a group for my database class and have been helping one of the members. His name is Le Chanh Tin Luong, but he goes by Henry. He is in one of Fardad's classes. I told him he needed to provide credit if he used any of my code.
